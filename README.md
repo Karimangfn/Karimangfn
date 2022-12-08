@@ -67,41 +67,25 @@
 </p>
 
 :computer: IDEs: 
-Visual Studio Code, Eclipse, DevC++ , Notepad++, Visualg, IntelliJ
-
-:art: Designs:
-Paint.NET, Gimp, IcoFX, AniFX, Canva, Figma, Photoshop, CorelDraw
+Visual Studio Code, Eclipse, DevC++, Visualg
 
 :information_source: Bancos de dados:
-MariaDB, PostgreSQL, MySQL
+MySQL, SQLServer
 
 :cloud: Nuvem:
-AWS, Azure
+Azure
 
 :bar_chart: Diagramas:
 Draw.io, Lucidchart
 
 :man_office_worker: Administração:
-Word, PowerPoint, Excel, Outlook, Teams, Meet, One Drive, Google Drive, Power BI
-
-:moyai: 3Ds:
-Zmodeler, Blender, 3D Builder
-
-:film_strip: Vídeos:
-Proshow Producer, Kapwing, Movie Maker, After Effects
-
-:sound: Áudio:
-<p>
-<a href="https://www.audacityteam.org/">
-<img alt="Logo Audacity" title="Audacity" src="https://github.com/F3RREIRA/Github/blob/main/LogoAudacity.png" height="50px"/>
-</a>
-</p>
+Word, PowerPoint, Excel, Outlook, Teams, Meet, One Drive, Google Drive
 
 <br>
 <h2>:rocket: Plataformas</h2>
 <p>
 <a href="https://www.alura.com.br/">
-<img alt="Logo Alura" title="Alura" src="https://github.com/F3RREIRA/Github/blob/main/Alura.png" height="50px"/>
+<img alt="Logo Alura" title="Alura" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Alura.png" height="50px"/>
 </a>
 </p>
 
