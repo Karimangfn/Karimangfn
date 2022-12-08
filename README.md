@@ -8,7 +8,7 @@
 </p>
 </a>
 
-<h2>:milky_way: Sou Desenvolvedor Back-end e Data Engineer Jr</h2>
+<h2>:milky_way: Sou Desenvolvedor Back-end e Engenheiro de Dados Jr</h2>
 
 <p>:books: Curso: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS).</p>
 
