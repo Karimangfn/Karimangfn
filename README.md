@@ -1,5 +1,5 @@
 <h2>
-<img alt="Logo Dev" title="Dev" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoDev.png" height="50px" top="-100px"/> Olá, meu nome é
+💻 Olá, meu nome é  
 </h2>
 
 <p>
