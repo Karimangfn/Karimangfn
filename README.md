@@ -43,6 +43,12 @@
 
 :bookmark_tabs: Frameworks:
 <p>
+<a href="https://spark.apache.org/docs/latest/api/python">
+<img alt="Logo Framework PySpark" title="PySpark" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoPySpark.jpeg" height="50px"/>
+</a>
+<a href="https://pandas.pydata.org">
+<img alt="Logo Framework Pandas" title="Pandas" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoPandas.png" height="50px"/>
+</a>
 <a href="https://www.devmedia.com.br/guia/hibernate/38312">
 <img alt="Logo Framework Hibernate" title="Hibernate" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoHibernate.png" height="50px"/>
 </a>
