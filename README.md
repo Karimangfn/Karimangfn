@@ -101,7 +101,7 @@ Proshow Producer, Kapwing, Movie Maker, After Effects
 <h2>:rocket: Plataformas</h2>
 <p>
 <a href="https://www.alura.com.br/">
-<img alt="Logo Alura" title="Alura" src="https://github.com/F3RREIRA/Github/blob/main/Alura.png" height="25px"/>
+<img alt="Logo Alura" title="Alura" src="https://github.com/F3RREIRA/Github/blob/main/Alura.png" height="50px"/>
 </a>
 </p>
 
@@ -110,7 +110,7 @@ Proshow Producer, Kapwing, Movie Maker, After Effects
 
 <p>
 <a href="https://www.linkedin.com/in/kariman-gomes/" alt="Linkedin"> 
-<img src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Linkedin-Logo.png" height="50px"/> 
+<img src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Linkedin-Logo.png" height="80px"/> 
 </a>
   
 </p>
