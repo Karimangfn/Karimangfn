@@ -103,15 +103,6 @@ Proshow Producer, Kapwing, Movie Maker, After Effects
 <a href="https://www.alura.com.br/">
 <img alt="Logo Alura" title="Alura" src="https://github.com/F3RREIRA/Github/blob/main/Alura.png" height="25px"/>
 </a>
-<a href="https://www.dio.me/">
-<img alt="Logo DIO" title="DIO" src="https://github.com/F3RREIRA/Github/blob/main/DIO.png" height="25px"/>
-</a>
-<a href="https://www.fiap.com.br/">
-<img alt="Logo FIAP" title="FIAP" src="https://github.com/F3RREIRA/Github/blob/main/FIAP.png" height="25px"/>
-</a>
-<a href="https://www.rocketseat.com.br/">
-<img alt="Logo Rocketseat" title="Rocketseat" src="https://github.com/F3RREIRA/Github/blob/main/Rocketseat.png" height="25px"/>
-</a>
 </p>
 
 <br>
