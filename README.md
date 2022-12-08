@@ -110,7 +110,7 @@ Proshow Producer, Kapwing, Movie Maker, After Effects
 
 <p>
 <a href="https://www.linkedin.com/in/kariman-gomes/" alt="Linkedin"> 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rivaildoferreira"/> 
+<img src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Linkedin-Logo.png"/> 
 </a>
   
 </p>
