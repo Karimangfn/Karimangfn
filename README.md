@@ -21,11 +21,11 @@
 
 :symbols: Linguagens: 
 <p>
-<a href="https://www.java.com/pt-BR/download/help/whatis_java.html">
-<img alt="Logo Linguagem Java" title="Java" src="https://github.com/F3RREIRA/Github/blob/main/LogoJava.png" height="50px"/>
-</a>
 <a href="https://www.devmedia.com.br/python-tutorial/33274#:~:text=Python%20%C3%A9%20uma%20linguagem%20de,C%2B%2B%2C%20Java%20e%20C%23.">
 <img alt="Logo Linguagem Python" title="Python" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/python.jpg" height="50px"/>
+</a>
+<a href="https://www.java.com/pt-BR/download/help/whatis_java.html">
+<img alt="Logo Linguagem Java" title="Java" src="https://github.com/F3RREIRA/Github/blob/main/LogoJava.png" height="50px"/>
 </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics">
 <img alt="Logo Linguagem HTML" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoHTML.png" height="50px"/>
