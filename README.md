@@ -3,18 +3,18 @@
 </h2>
 
 <p>
-<a href="https://github.com/F3RREIRA">
-<img alt="LOGO RF RIVAILDO F3RREIRA" title="rivaildo ferreira" src="https://github.com/F3RREIRA/Portifolio/blob/main/github/logo.png" width="500px" align="center"/>
+<a href="">
+<img alt="" title="" src="" width="500px" align="center"/>
 </p>
 </a>
 
-<h2>:milky_way: Sou Desenvolvedor Front-end e UI Designer</h2>
+<h2>:milky_way: Sou Desenvolvedor Back-end e Data Engineer Jr</h2>
 
 <p>:books: Curso: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS).</p>
 
 <p>:school: Universidade: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.</p>
   
-<p>:chess_pawn: Habilidades: Lógica de programação, Gestão de Projetos e Criatividade.</p>
+<p>:chess_pawn: Habilidades: Lógica de programação, Computação em Nuvem, Esforço e Dedicação</p>
 
 <br>
 <h2>:keyboard: Ferramentas</h2>
