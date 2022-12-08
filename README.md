@@ -60,14 +60,24 @@
 </a>
 </p>
 
+:cloud: Nuvem:
+<p>
+<a href="https://azure.microsoft.com/pt-br/">
+<img alt="Logo Azure" title="Azure" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoAzure.png" height="50px"/>
+</a>
+<a href="https://azure.microsoft.com/pt-br/products/databricks/#overview">
+<img alt="Logo DataBricks" title="DataBricks" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoDataBricks.png" height="50px"/>
+</a>
+<a href="https://azure.microsoft.com/pt-br/products/data-factory/">
+<img alt="Logo DataFactory" title="DataFactory" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoDataFactory.png" height="50px"/>
+</a>
+</p>
+
 :computer: IDEs: 
 Visual Studio Code, Eclipse, DevC++, Visualg
 
 :information_source: Bancos de dados:
 MySQL, SQLServer
-
-:cloud: Nuvem:
-Azure
 
 :bar_chart: Diagramas:
 Draw.io, Lucidchart
