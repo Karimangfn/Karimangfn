@@ -30,17 +30,11 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
 <img alt="Logo Linguagem Javascript" title="Javascript" src="https://github.com/F3RREIRA/Github/blob/main/LogoJavascript1.png" height="50px"/>
 </a>
-<a href="https://www.devmedia.com.br/introducao-ao-typescript/36729">
-<img alt="Logo Linguagem Typescript" title="Typescript" src="https://github.com/F3RREIRA/Github/blob/main/LogoTypescript.png" height="50px"/>
-</a>
 <a href="https://www.devmedia.com.br/historia-do-c-c/24029#:~:text=A%20linguagem%20C%20%C3%A9%20o,a%20evolu%C3%A7%C3%A3o%20da%20linguagem%20B.">
 <img alt="Logo Linguagem C" title="C" src="https://github.com/F3RREIRA/Github/blob/main/LogoC.png" height="50px"/>
 </a>
 <a href="https://www.java.com/pt-BR/download/help/whatis_java.html">
 <img alt="Logo Linguagem Java" title="Java" src="https://github.com/F3RREIRA/Github/blob/main/LogoJava.png" height="50px"/>
-</a>
-<a href="https://www.php.net/manual/pt_BR/intro-whatis.php">
-<img alt="Logo Linguagem PHP" title="PHP" src="https://github.com/F3RREIRA/Github/blob/main/LogoPHP.png" height="50px"/>
 </a>
 <a href="https://www.devmedia.com.br/python-tutorial/33274#:~:text=Python%20%C3%A9%20uma%20linguagem%20de,C%2B%2B%2C%20Java%20e%20C%23.">
 <img alt="Logo Linguagem Python" title="Python" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/python.jpg" height="50px"/>
