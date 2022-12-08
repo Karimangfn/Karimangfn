@@ -43,7 +43,7 @@
 <img alt="Logo Linguagem PHP" title="PHP" src="https://github.com/F3RREIRA/Github/blob/main/LogoPHP.png" height="50px"/>
 </a>
 <a href="https://www.devmedia.com.br/python-tutorial/33274#:~:text=Python%20%C3%A9%20uma%20linguagem%20de,C%2B%2B%2C%20Java%20e%20C%23.">
-<img alt="Logo Linguagem Python" title="Python" src="https://github.com/F3RREIRA/Github/blob/main/LogoPython.png" height="50px"/>
+<img alt="Logo Linguagem Python" title="Python" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/python.jpg" height="50px"/>
 </a>
 </p>
 
