@@ -43,26 +43,8 @@
 
 :bookmark_tabs: Frameworks:
 <p>
-<a href="https://www.devmedia.com.br/guia/bootstrap/38150#:~:text=Introdu%C3%A7%C3%A3o,aos%20diferentes%20tamanhos%20de%20tela.">
-<img alt="Logo Framework Bootstrap" title="Bootstrap" src="https://github.com/F3RREIRA/Github/blob/main/LogoBootstrap.png" height="50px"/>
-</a>
-<a href="https://nodejs.org/pt-br/about/">
-<img alt="Logo Framework Node.js" title="Node.js" src="https://github.com/F3RREIRA/Github/blob/main/LogoNodeJS.png" height="50px"/>
-</a>
-<a href="https://nextjs.org/learn/foundations/about-nextjs/what-is-nextjs">
-<img alt="Logo Framework Next.js" title="Next.js" src="https://github.com/F3RREIRA/Github/blob/main/LogoNextJS.png" height="50px"/>
-</a>
-<a href="https://www.alura.com.br/artigos/react-native?gclid=CjwKCAjw-L-ZBhB4EiwA76YzOTjUlfDmpDTqrYXmxNmMI9Cr9qQcYhyoe1PNoh1ZDILMLtGfgm5z0BoCCYAQAvD_BwE">
-<img alt="Logo Framework React Native" title="React Native" src="https://github.com/F3RREIRA/Github/blob/main/LogoReactNative.png" height="50px"/>
-</a>
-<a href="https://pt-br.reactjs.org/tutorial/tutorial.html#what-is-react">
-<img alt="Logo Framework React" title="React" src="https://github.com/F3RREIRA/Github/blob/main/LogoReact.png" height="50px"/>
-</a>
 <a href="https://blog.betrybe.com/framework-de-programacao/spring-boot-tudo-sobre/#1">
-<img alt="Logo Framework Spring Boot" title="Spring Boot" src="https://github.com/F3RREIRA/Github/blob/main/LogoSpring.png" height="50px"/>
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Introduction#o_que_%C3%A9_django">
-<img alt="Logo Framework Django" title="Django" src="https://github.com/F3RREIRA/Github/blob/main/LogoDjango.png" height="50px"/>
+<img alt="Logo Framework Spring Boot" title="Spring Boot" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoSpring.png" height="50px"/>
 </a>
 </p>
 
