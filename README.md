@@ -88,14 +88,6 @@ Draw.io, Lucidchart
 Word, PowerPoint, Excel, Outlook, Teams, Meet, One Drive, Google Drive
 
 <br>
-<h2>:rocket: Plataformas</h2>
-<p>
-<a href="https://www.alura.com.br/">
-<img alt="Logo Alura" title="Alura" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Alura.png" height="50px"/>
-</a>
-</p>
-
-<br>
 <h2> :iphone: Contato</h2> 
 
 <p>
