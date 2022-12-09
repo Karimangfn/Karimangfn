@@ -4,7 +4,9 @@
 
 <p>
 <a href="">
-<img alt="Logo Kariman" title="LogoName" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoNome.png" width="400px" align="center"/>
+<dl>
+<dd><img alt="Logo Kariman" title="LogoName" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoNome.png" width="400px" align="center"/></dd>
+</dl>
 </p>
 </a>
 
