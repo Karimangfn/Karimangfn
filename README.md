@@ -4,13 +4,11 @@
 
 <br/>
 
-<h2>:milky_way: Sou Desenvolvedor Back-end e Engenheiro de Dados Jr</h2>
+<h2>:milky_way: Sou Desenvolvedor Back-end Python e Engenheiro de Dados</h2>
 
 <p>:books: Curso: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS).</p>
 
 <p>:school: Universidade: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.</p>
-  
-<p>:chess_pawn: Habilidades: Lógica de programação, Computação em Nuvem, Esforço e Dedicação</p>
 
 <br>
 <h2>:keyboard: Skills</h2>
