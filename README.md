@@ -43,13 +43,16 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 :cloud: Nuvem:
 <p>
 <a href="https://azure.microsoft.com/pt-br/">
-<img alt="Logo Azure" title="Azure" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoAzure.png" height="50px"/>
+<img alt="Logo Azure" title="Microsoft Azure" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoAzure.png" height="50px"/>
 </a>
 <a href="https://azure.microsoft.com/pt-br/products/databricks/#overview">
-<img alt="Logo DataBricks" title="DataBricks" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoDataBricks.png" height="50px"/>
+<img alt="Logo Databricks" title="Databricks" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoDataBricks.png" height="50px"/>
 </a>
 <a href="https://azure.microsoft.com/pt-br/products/data-factory/">
-<img alt="Logo DataFactory" title="DataFactory" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoDataFactory.png" height="50px"/>
+<img alt="Logo Datafactory" title="Datafactory" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoDataFactory.png" height="50px"/>
+</a>
+<a href="https://azure.microsoft.com/pt-br/products/kubernetes-service/">
+<img alt="Logo AKS" title="Azure Kubernetes Service" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Azure-Kubernetes-Service.jpg" height="50px"/>
 </a>
 </p>
 
