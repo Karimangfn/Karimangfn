@@ -72,17 +72,28 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 </a>
 </p>
 
-:computer: IDEs: 
+:computer: IDEs:
 Visual Studio Code, Eclipse, DevC++, Visualg
 
-:information_source: Bancos de dados:
+:information_source: Databases:
 MySQL, SQLServer
 
-:bar_chart: Diagramas:
-Draw.io, Lucidchart
-
-:man_office_worker: Administração:
-Word, PowerPoint, Excel, Outlook, Teams, Meet, One Drive, Google Drive
+:man_office_worker: Administratioon:
+<a href="https://www.microsoft.com/pt-br/microsoft-365/word/">
+<img alt="Word" title="Word" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+</a>
+<a href="https://www.microsoft.com/pt-br/microsoft-365/excel/">
+<img alt="Excel" title="Excel" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+</a>
+<a href="https://www.microsoft.com/pt-br/microsoft-365/powerpoint/">
+<img alt="Power Point" title="Power Point" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+</a>
+<a href="https://www.microsoft.com/pt-br/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook/">
+<img alt="Outlook" title="Outlook" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+</a>
+<a href="https://www.microsoft.com/pt-br/microsoft-teams/">
+<img alt="Teams" title="Teams" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+</a>
 
 <br>
 <h2> :iphone: Contato</h2> 
