@@ -1,14 +1,6 @@
 <h2>
-👨‍💻 Olá, meu nome é  
+👨‍💻 Olá, Me Chamo Kariman Gomes 
 </h2>
-
-<p>
-<a href="">
-<dl>
-<dd><img alt="Logo Kariman" title="LogoName" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoNome2.png" width="400px" align="center"/></dd>
-</dl>
-</p>
-</a>
 
 <h2>:milky_way: Sou Desenvolvedor Back-end e Engenheiro de Dados Jr</h2>
 
