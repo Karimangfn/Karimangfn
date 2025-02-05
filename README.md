@@ -28,6 +28,7 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
 <img alt="Logo Linguagem Javascript" title="Javascript" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoJavascript1.png" height="50px"/>
+</a>
 </p>
 
 :bookmark_tabs: Frameworks:
