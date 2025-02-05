@@ -78,13 +78,13 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 :computer: IDEs:
 <p>
 <a href="https://code.visualstudio.com/">
-<img alt="VSCode" title="Visual Studio Code" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+<img alt="VSCode" title="Visual Studio Code" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/VSCode-Icon.png" height="50px"/>
 </a>
 <a href="https://www.jetbrains.com/pycharm/">
-<img alt="PyCharm" title="PyCharm" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+<img alt="PyCharm" title="PyCharm" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Pycharm-Icon.png" height="50px"/>
 </a>
 <a href="https://eclipseide.org/">
-<img alt="Eclipse" title="Eclipse" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+<img alt="Eclipse" title="Eclipse" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Eclipse-Icon.png" height="50px"/>
 </a>
 </p>
 
