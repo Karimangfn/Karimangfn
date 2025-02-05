@@ -78,7 +78,8 @@ Visual Studio Code, Eclipse, DevC++, Visualg
 :information_source: Databases:
 MySQL, SQLServer
 
-:man_office_worker: Administratioon:
+:man_office_worker: Administration:
+<p>
 <a href="https://www.microsoft.com/pt-br/microsoft-365/word/">
 <img alt="Word" title="Word" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
 </a>
@@ -94,6 +95,7 @@ MySQL, SQLServer
 <a href="https://www.microsoft.com/pt-br/microsoft-teams/">
 <img alt="Teams" title="Teams" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
 </a>
+</p>
 
 <br>
 <h2> :iphone: Contato</h2> 
