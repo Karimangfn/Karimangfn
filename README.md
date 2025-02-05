@@ -76,7 +76,20 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 Visual Studio Code, Eclipse, DevC++, Visualg
 
 :information_source: Databases:
-MySQL, SQLServer
+<p>
+<a href="">
+<img alt="SQL Server" title="SQL Server" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+</a>
+<a href="">
+<img alt="MySQL" title="MySQL" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+</a>
+<a href="">
+<img alt="PostgreSQL" title="PostgreSQL" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+</a>
+<a href="">
+<img alt="SQLite" title="SQLite" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+</a>
+</p>
 
 :man_office_worker: Administration:
 <p>
