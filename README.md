@@ -11,6 +11,7 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 <p>:school: Universidade: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.</p>
 
 <h2>:keyboard: Tools</h2>
+
 :symbols: Languages:
 <p style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
   <a href="https://www.devmedia.com.br/python-tutorial/33274#:~:text=Python%20%C3%A9%20uma%20linguagem%20de,C%2B%2B%2C%20Java%20e%20C%23.">
