@@ -55,6 +55,9 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 <a href="https://azure.microsoft.com/pt-br/products/kubernetes-service/">
 <img alt="Logo AKS" title="Azure Kubernetes Service" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Azure-Kubernetes-Service.png" height="50px"/>
 </a>
+<a href="https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction/">
+<img alt="Logo Storage Account" title="Azure Storage Account" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Azure-Storage-Account.png" height="50px"/>
+</a>
 </p>
 
 :computer: IDEs: 
