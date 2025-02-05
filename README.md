@@ -136,7 +136,7 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 :man_office_worker: Infraestructure as Code (IaC)
 <p>
 <a href="https://www.terraform.io/">
-<img alt="Terraform" title="Terraform" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+<img alt="Terraform" title="Terraform" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Terraform.png" height="50px"/>
 </a>
 </p>
 
@@ -156,7 +156,7 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 :man_office_worker: Artifacts
 <p>
 <a href="https://jfrog.com/artifactory/">
-<img alt="JFrog Artifactory" title="JFrog Artifactory" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+<img alt="JFrog Artifactory" title="JFrog Artifactory" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/JFrog.png" height="50px"/>
 </a>
 </p>
 
