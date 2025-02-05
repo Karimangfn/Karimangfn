@@ -13,7 +13,7 @@
 <p>:chess_pawn: Habilidades: Lógica de programação, Computação em Nuvem, Esforço e Dedicação</p>
 
 <br>
-<h2>:keyboard: Ferramentas</h2>
+<h2>:keyboard: Skills</h2>
 
 :symbols: Linguagens: 
 <p>
@@ -31,10 +31,6 @@
 </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
 <img alt="Logo Linguagem Javascript" title="Javascript" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoJavascript1.png" height="50px"/>
-</a>
-<a href="https://www.devmedia.com.br/historia-do-c-c/24029#:~:text=A%20linguagem%20C%20%C3%A9%20o,a%20evolu%C3%A7%C3%A3o%20da%20linguagem%20B.">
-<img alt="Logo Linguagem C" title="C" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoC.png" height="50px"/>
-</a>
 </p>
 
 :bookmark_tabs: Frameworks:
