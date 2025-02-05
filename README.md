@@ -1,7 +1,6 @@
 <h2>
-👨‍💻 Olá, Me Chamo Kariman Gomes 
+👨‍💻 Olá, Me Chamo Kariman Gomes\ 
 </h2>
-
 
 <h2>:milky_way: Sou Desenvolvedor Back-end e Engenheiro de Dados Jr</h2>
 
