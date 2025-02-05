@@ -58,6 +58,15 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 <a href="https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction/">
 <img alt="Logo Storage Account" title="Azure Storage Account" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Azure-Storage-Account.png" height="50px"/>
 </a>
+<a href="https://aws.amazon.com/pt/rds/">
+<img alt="Logo RDS" title="AWS Relacional Database Service" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-RDS.png" height="50px"/>
+</a>
+<a href="https://aws.amazon.com/pt/eks/">
+<img alt="Logo EKS" title="AWS Elastic Kubernetes Service" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EKS.jpg" height="50px"/>
+</a>
+<a href="https://aws.amazon.com/pt/ec2/">
+<img alt="Logo EC2" title="AWS EC2" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+</a>
 </p>
 
 :computer: IDEs: 
