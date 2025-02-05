@@ -38,15 +38,6 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 <a href="https://pandas.pydata.org">
 <img alt="Logo Framework Pandas" title="Pandas" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoPandas.png" height="50px"/>
 </a>
-<a href="https://www.devmedia.com.br/guia/hibernate/38312">
-<img alt="Logo Framework Hibernate" title="Hibernate" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoHibernate.png" height="50px"/>
-</a>
-<a href="https://blog.betrybe.com/framework-de-programacao/spring-boot-tudo-sobre/#1">
-<img alt="Logo Framework Spring Boot" title="Spring Boot" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoSpring.png" height="50px"/>
-</a>
-<a href="https://www.hostinger.com.br/tutoriais/o-que-e-react-javascript">
-<img alt="Logo Framework React" title="React" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoReact.png" height="50px"/>
-</a>
 </p>
 
 :cloud: Nuvem:
