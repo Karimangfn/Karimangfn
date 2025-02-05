@@ -120,16 +120,16 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 :man_office_worker: Containerization and Orchestration
 <p>
 <a href="https://www.docker.com/">
-<img alt="Docker" title="Docker" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+<img alt="Docker" title="Docker" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Docker.png" height="50px"/>
 </a>
 <a href="https://kubernetes.io/pt-br/">
-<img alt="Kubernetes" title="Kubernetes" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+<img alt="Kubernetes" title="Kubernetes" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Kubernetes.png" height="50px"/>
 </a>
 <a href="https://www.redhat.com/pt-br/technologies/cloud-computing/openshift/">
-<img alt="OpenShift" title="OpenShift" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+<img alt="OpenShift" title="OpenShift" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/OpenShift.png" height="50px"/>
 </a>
 <a href="https://rancherdesktop.io/">
-<img alt="Rancher Desktop" title="Rancher Desktop" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+<img alt="Rancher Desktop" title="Rancher Desktop" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Rancher-Desktop.png" height="50px"/>
 </a>
 </p>
 
