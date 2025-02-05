@@ -104,6 +104,62 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 </a>
 </p>
 
+:man_office_worker: Monitoring and Observability
+<p>
+<a href="https://www.dynatrace.com/pt-br/">
+<img alt="Dynatrace" title="Dynatrace" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+</a>
+<a href="https://www.elastic.co/pt/kibana/">
+<img alt="Kibana" title="Kibana" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+</a>
+<a href="https://grafana.com/">
+<img alt="Grafana" title="Grafana" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+</a>
+</p>
+
+:man_office_worker: Containerization and Orchestration
+<p>
+<a href="https://www.docker.com/">
+<img alt="Docker" title="Docker" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+</a>
+<a href="https://kubernetes.io/pt-br/">
+<img alt="Kubernetes" title="Kubernetes" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+</a>
+<a href="https://www.redhat.com/pt-br/technologies/cloud-computing/openshift/">
+<img alt="OpenShift" title="OpenShift" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+</a>
+<a href="https://rancherdesktop.io/">
+<img alt="Rancher Desktop" title="Rancher Desktop" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+</a>
+</p>
+
+:man_office_worker: Infraestructure as Code (IaC)
+<p>
+<a href="https://www.terraform.io/">
+<img alt="Terraform" title="Terraform" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+</a>
+</p>
+
+:man_office_worker: DevOps
+<p>
+<a href="https://www.jenkins.io/">
+<img alt="Jenkins" title="Jenkins" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+</a>
+<a href="https://github.com/features/actions">
+<img alt="Github Actions" title="Github Actions" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+</a>
+<a href="https://argo-cd.readthedocs.io/en/stable/">
+<img alt="ArgoCD" title="ArgoCD" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+</a>
+</p>
+
+:man_office_worker: Artifacts
+<p>
+<a href="https://jfrog.com/artifactory/">
+<img alt="JFrog Artifactory" title="JFrog Artifactory" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+</a>
+</p>
+
 :man_office_worker: Administration:
 <p>
 <a href="https://www.microsoft.com/pt-br/microsoft-365/word/">
