@@ -6,10 +6,6 @@ Sou um engenheiro de dados e desenvolvedor backend Python com experiência em Da
 Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Python, PySpark e SQL para transformar dados em insights estratégicos.
 </p>
 
-<br/>
-
-<h2>:milky_way: Sou Desenvolvedor Back-end Python e Engenheiro de Dados</h2>
-
 <p>:books: Curso: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS).</p>
 
 <p>:school: Universidade: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.</p>
