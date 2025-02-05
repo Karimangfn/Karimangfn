@@ -107,13 +107,13 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 :man_office_worker: Monitoring and Observability
 <p>
 <a href="https://www.dynatrace.com/pt-br/">
-<img alt="Dynatrace" title="Dynatrace" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+<img alt="Dynatrace" title="Dynatrace" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Dynatrace.png" height="50px"/>
 </a>
 <a href="https://www.elastic.co/pt/kibana/">
-<img alt="Kibana" title="Kibana" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+<img alt="Kibana" title="Kibana" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Kibana.png" height="50px"/>
 </a>
 <a href="https://grafana.com/">
-<img alt="Grafana" title="Grafana" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+<img alt="Grafana" title="Grafana" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Grafana.jpg" height="50px"/>
 </a>
 </p>
 
