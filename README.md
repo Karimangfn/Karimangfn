@@ -75,7 +75,7 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 </a>
 </p>
 
-:computer: IDEs:
+:hammer_and_wrench: IDEs:
 <p>
 <a href="https://code.visualstudio.com/">
 <img alt="VSCode" title="Visual Studio Code" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/VSCode-Icon.png" height="50px"/>
@@ -88,7 +88,7 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 </a>
 </p>
 
-:information_source: Databases:
+:database: Databases:
 <p>
 <a href="https://learn.microsoft.com/pt-br/sql/sql-server/what-is-sql-server?view=sql-server-ver16">
 <img alt="SQL Server" title="SQL Server" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLServer.png" height="50px"/>
@@ -104,7 +104,7 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 </a>
 </p>
 
-:man_office_worker: Monitoring and Observability
+:bar_chart: Monitoring and Observability
 <p>
 <a href="https://www.dynatrace.com/pt-br/">
 <img alt="Dynatrace" title="Dynatrace" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Dynatrace.png" height="50px"/>
@@ -117,7 +117,7 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 </a>
 </p>
 
-:man_office_worker: Containerization and Orchestration
+:package: Containerization and Orchestration
 <p>
 <a href="https://www.docker.com/">
 <img alt="Docker" title="Docker" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Docker.png" height="50px"/>
@@ -133,14 +133,14 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 </a>
 </p>
 
-:man_office_worker: Infraestructure as Code (IaC)
+:scroll: Infraestructure as Code (IaC)
 <p>
 <a href="https://www.terraform.io/">
 <img alt="Terraform" title="Terraform" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Terraform.png" height="50px"/>
 </a>
 </p>
 
-:man_office_worker: DevOps
+:arrows_counterclockwise: DevOps
 <p>
 <a href="https://www.jenkins.io/">
 <img alt="Jenkins" title="Jenkins" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Jenkins.png" height="50px"/>
@@ -153,7 +153,7 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 </a>
 </p>
 
-:man_office_worker: Artifacts
+:file_folder: Artifacts
 <p>
 <a href="https://jfrog.com/artifactory/">
 <img alt="JFrog Artifactory" title="JFrog Artifactory" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/JFrog.png" height="50px"/>
