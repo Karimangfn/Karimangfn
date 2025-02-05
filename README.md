@@ -84,7 +84,6 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 <img alt="Eclipse" title="Eclipse" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
 </a>
 </p>
-Visual Studio Code, Eclipse, DevC++, Visualg
 
 :information_source: Databases:
 <p>
