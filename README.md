@@ -143,13 +143,13 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 :man_office_worker: DevOps
 <p>
 <a href="https://www.jenkins.io/">
-<img alt="Jenkins" title="Jenkins" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+<img alt="Jenkins" title="Jenkins" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Jenkins.png" height="50px"/>
 </a>
 <a href="https://github.com/features/actions">
-<img alt="Github Actions" title="Github Actions" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+<img alt="Github Actions" title="Github Actions" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Github-Actions.png" height="50px"/>
 </a>
 <a href="https://argo-cd.readthedocs.io/en/stable/">
-<img alt="ArgoCD" title="ArgoCD" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
+<img alt="ArgoCD" title="ArgoCD" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/ArgoCD.png" height="50px"/>
 </a>
 </p>
 
