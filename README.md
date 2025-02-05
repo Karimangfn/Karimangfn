@@ -40,7 +40,7 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 <img alt="Logo Framework Pandas" title="Pandas" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoPandas.png" height="50px"/>
 </a>
 <a href="https://delta.io/">
-<img alt="Logo Delta Lake" title="Delta Lake" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoPandas.png" height="50px"/>
+<img alt="Logo Delta Lake" title="Delta Lake" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoDeltaLake.png" height="50px"/>
 </a>
 </p>
 
