@@ -73,20 +73,31 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 </p>
 
 :computer: IDEs:
+<p>
+<a href="https://code.visualstudio.com/">
+<img alt="VSCode" title="Visual Studio Code" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+</a>
+<a href="https://www.jetbrains.com/pycharm/">
+<img alt="PyCharm" title="PyCharm" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+</a>
+<a href="https://eclipseide.org/">
+<img alt="Eclipse" title="Eclipse" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+</a>
+</p>
 Visual Studio Code, Eclipse, DevC++, Visualg
 
 :information_source: Databases:
 <p>
-<a href="">
+<a href="https://learn.microsoft.com/pt-br/sql/sql-server/what-is-sql-server?view=sql-server-ver16">
 <img alt="SQL Server" title="SQL Server" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
 </a>
-<a href="">
+<a href="https://www.mysql.com/">
 <img alt="MySQL" title="MySQL" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
 </a>
-<a href="">
+<a href="https://www.postgresql.org/">
 <img alt="PostgreSQL" title="PostgreSQL" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
 </a>
-<a href="">
+<a href="https://www.sqlite.org/">
 <img alt="SQLite" title="SQLite" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
 </a>
 </p>
