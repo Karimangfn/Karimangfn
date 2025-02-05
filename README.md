@@ -33,11 +33,14 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 
 :bookmark_tabs: Frameworks:
 <p>
-<a href="https://spark.apache.org/docs/latest/api/python">
+<a href="https://spark.apache.org/docs/latest/api/python/">
 <img alt="Logo Framework PySpark" title="PySpark" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoPySpark.jpeg" height="50px"/>
 </a>
-<a href="https://pandas.pydata.org">
+<a href="https://pandas.pydata.org/">
 <img alt="Logo Framework Pandas" title="Pandas" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoPandas.png" height="50px"/>
+</a>
+<a href="https://delta.io/">
+<img alt="Logo Delta Lake" title="Delta Lake" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoPandas.png" height="50px"/>
 </a>
 </p>
 
