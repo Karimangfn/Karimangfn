@@ -41,7 +41,7 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 </a>
 </p>
 
-:cloud: Nuvem:
+:cloud: Cloud:
 <p>
 <a href="https://azure.microsoft.com/pt-br/">
 <img alt="Logo Azure" title="Microsoft Azure" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoAzure.png" height="50px"/>
