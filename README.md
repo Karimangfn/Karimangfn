@@ -10,7 +10,6 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 
 <p>:school: Universidade: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.</p>
 
-<br>
 <h2>:keyboard: Tools</h2>
 
 :symbols: Languages: 
