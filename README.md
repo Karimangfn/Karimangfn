@@ -12,40 +12,6 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 
 <h2>:keyboard: Tools</h2>
 
-<table>
-  <tr>
-    <td>:symbols: <strong>Languages:</strong></td>
-    <td>:bookmark_tabs: <strong>Frameworks:</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.devmedia.com.br/python-tutorial/33274#:~:text=Python%20%C3%A9%20uma%20linguagem%20de,C%2B%2B%2C%20Java%20e%20C%23.">
-        <img alt="Logo Linguagem Python" title="Python" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/python.jpg" height="50px"/>
-      </a>
-      <a href="https://www.java.com/pt-BR/download/help/whatis_java.html">
-        <img alt="Logo Linguagem Java" title="Java" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoJava.png" height="50px"/>
-      </a>
-      <a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics">
-        <img alt="Logo Linguagem HTML" title="HTML" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoHTML.png" height="50px"/>
-      </a>
-      <a href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps/What_is_CSS">
-        <img alt="Logo Linguagem CSS" title="CSS" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoCSS.png" height="50px"/>
-      </a>
-      <a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
-        <img alt="Logo Linguagem Javascript" title="Javascript" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoJavascript1.png" height="50px"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://spark.apache.org/docs/latest/api/python">
-        <img alt="Logo Framework PySpark" title="PySpark" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoPySpark.jpeg" height="50px"/>
-      </a>
-      <a href="https://pandas.pydata.org">
-        <img alt="Logo Framework Pandas" title="Pandas" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoPandas.png" height="50px"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
 :symbols: Languages: 
 <p>
 <a href="https://www.devmedia.com.br/python-tutorial/33274#:~:text=Python%20%C3%A9%20uma%20linguagem%20de,C%2B%2B%2C%20Java%20e%20C%23.">
