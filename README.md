@@ -1,8 +1,10 @@
 <h2>
 👨‍💻 Olá, Me Chamo Kariman Gomes
+</h2>
+<p>
 Sou um engenheiro de dados e desenvolvedor backend Python com experiência em Databricks, Azure e AWS, especializado na construção de pipelines de ingestão de dados e no desenvolvimento de soluções escaláveis em nuvem. 
 Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Python, PySpark e SQL para transformar dados em insights estratégicos.
-</h2>
+</p>
 
 <br/>
 
