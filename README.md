@@ -91,16 +91,16 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 :information_source: Databases:
 <p>
 <a href="https://learn.microsoft.com/pt-br/sql/sql-server/what-is-sql-server?view=sql-server-ver16">
-<img alt="SQL Server" title="SQL Server" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+<img alt="SQL Server" title="SQL Server" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLServer.png" height="50px"/>
 </a>
 <a href="https://www.mysql.com/">
-<img alt="MySQL" title="MySQL" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+<img alt="MySQL" title="MySQL" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/MySQL.png" height="50px"/>
 </a>
 <a href="https://www.postgresql.org/">
-<img alt="PostgreSQL" title="PostgreSQL" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+<img alt="PostgreSQL" title="PostgreSQL" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/PostgreSQL.png" height="50px"/>
 </a>
 <a href="https://www.sqlite.org/">
-<img alt="SQLite" title="SQLite" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+<img alt="SQLite" title="SQLite" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/SQLite.png" height="50px"/>
 </a>
 </p>
 
