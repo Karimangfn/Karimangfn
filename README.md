@@ -10,28 +10,6 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 
 <p>:school: Universidade: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.</p>
 
-<h2>Teste</h2>
-<p><strong>:symbols: Languages:</strong></p>
-<table>
-  <tr>
-    <td><a href="https://www.devmedia.com.br/python-tutorial/33274#:~:text=Python%20%C3%A9%20uma%20linguagem%20de,C%2B%2B%2C%20Java%20e%20C%23.">
-      <img alt="Logo Linguagem Python" title="Python" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/python.jpg" height="50px"/>
-    </a></td>
-    <td><a href="https://www.java.com/pt-BR/download/help/whatis_java.html">
-      <img alt="Logo Linguagem Java" title="Java" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoJava.png" height="50px"/>
-    </a></td>
-    <td><a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics">
-      <img alt="Logo Linguagem HTML" title="HTML" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoHTML.png" height="50px"/>
-    </a></td>
-    <td><a href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps/What_is_CSS">
-      <img alt="Logo Linguagem CSS" title="CSS" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoCSS.png" height="50px"/>
-    </a></td>
-    <td><a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
-      <img alt="Logo Linguagem Javascript" title="Javascript" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoJavascript1.png" height="50px"/>
-    </a></td>
-  </tr>
-</table>
-
 <h2>:keyboard: Tools</h2>
 
 <table>
