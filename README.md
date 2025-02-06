@@ -10,6 +10,47 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 
 <p>:school: Universidade: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.</p>
 
+<h2>Teste</h2>
+<table>
+  <tr>
+    <td><strong>:symbols: Languages:</strong></td>
+    <td><strong>:bookmark_tabs: Frameworks:</strong></td>
+    <td><strong>:cloud: Cloud:</strong></td>
+    <td><strong>:hammer_and_wrench: IDEs:</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Logo Linguagem Python" title="Python" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/python.jpg" height="50px"/>
+      <img alt="Logo Linguagem Java" title="Java" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoJava.png" height="50px"/>
+      <img alt="Logo Linguagem HTML" title="HTML" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoHTML.png" height="50px"/>
+      <img alt="Logo Linguagem CSS" title="CSS" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoCSS.png" height="50px"/>
+      <img alt="Logo Linguagem Javascript" title="Javascript" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoJavascript1.png" height="50px"/>
+    </td>
+    <td>
+      <img alt="Logo Framework PySpark" title="PySpark" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoPySpark.jpeg" height="50px"/>
+      <img alt="Logo Framework Pandas" title="Pandas" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoPandas.png" height="50px"/>
+      <img alt="Logo Delta Lake" title="Delta Lake" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoDeltaLake.png" height="50px"/>
+    </td>
+    <td>
+      <img alt="Logo Azure" title="Microsoft Azure" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoAzure.png" height="50px"/>
+      <img alt="Logo Databricks" title="Databricks" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoDataBricks.png" height="50px"/>
+      <img alt="Logo Datafactory" title="Azure Datafactory" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoDataFactory.png" height="50px"/>
+      <img alt="Logo AKS" title="Azure Kubernetes Service" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Azure-Kubernetes-Service.png" height="50px"/>
+      <img alt="Logo Storage Account" title="Azure Storage Account" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Azure-Storage-Account.png" height="50px"/>
+      <img alt="Logo AWS" title="AWS" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoAWS.png" height="50px"/>
+      <img alt="Logo RDS" title="AWS Relacional Database Service" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-RDS.png" height="50px"/>
+      <img alt="Logo EKS" title="AWS Elastic Kubernetes Service" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EKS.jpg" height="50px"/>
+      <img alt="Logo EC2" title="AWS EC2" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
+    </td>
+    <td>
+      <img alt="VSCode" title="Visual Studio Code" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/VSCode-Icon.png" height="50px"/>
+      <img alt="PyCharm" title="PyCharm" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Pycharm-Icon.png" height="50px"/>
+      <img alt="Eclipse" title="Eclipse" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Eclipse-Icon.png" height="50px"/>
+    </td>
+  </tr>
+</table>
+
+
 <h2>:keyboard: Tools</h2>
 
 <table>
