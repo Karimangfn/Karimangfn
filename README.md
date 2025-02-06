@@ -177,10 +177,10 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
         <img alt="Excel" title="Excel" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoExcel.png" height="50px"/>
       </a>
       <a href="https://www.microsoft.com/pt-br/microsoft-365/powerpoint/">
-        <img alt="Power Point" title="Power Point" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoPowerpoint.png" height="50px"/>
+        <img alt="Power Point" title="Power Point" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoPowerPoint.png" height="50px"/>
       </a>
-      <a href="https://www.microsoft.com/pt-br/microsoft-365/onenote/digital-note-taking">
-        <img alt="OneNote" title="OneNote" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoOneNote.png" height="50px"/>
+      <a href="https://www.microsoft.com/pt-br/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook/">
+        <img alt="Outlook" title="Outlook" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoOutlook.png" height="50px"/>
       </a>
       </a>
       <a href="https://www.microsoft.com/pt-br/microsoft-teams/">
