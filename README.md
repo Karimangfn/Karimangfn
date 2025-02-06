@@ -12,6 +12,13 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 
 <h2>:keyboard: Tools</h2>
 
+<style>
+  .icon {
+    display: inline-block;
+    margin-right: 10px;
+  }
+</style>
+
 <table>
   <tr>
     <td><strong>:symbols: Languages:</strong></td>
