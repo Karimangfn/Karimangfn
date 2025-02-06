@@ -12,73 +12,25 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 
 <h2>Teste</h2>
 <p><strong>:symbols: Languages:</strong></p>
-<a href="https://www.devmedia.com.br/python-tutorial/33274#:~:text=Python%20%C3%A9%20uma%20linguagem%20de,C%2B%2B%2C%20Java%20e%20C%23.">
-  <img alt="Logo Linguagem Python" title="Python" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/python.jpg" height="50px"/>
-</a>
-<a href="https://www.java.com/pt-BR/download/help/whatis_java.html">
-  <img alt="Logo Linguagem Java" title="Java" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoJava.png" height="50px"/>
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics">
-  <img alt="Logo Linguagem HTML" title="HTML" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoHTML.png" height="50px"/>
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps/What_is_CSS">
-  <img alt="Logo Linguagem CSS" title="CSS" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoCSS.png" height="50px"/>
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
-  <img alt="Logo Linguagem Javascript" title="Javascript" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoJavascript1.png" height="50px"/>
-</a>
-
-<p><strong>:bookmark_tabs: Frameworks:</strong></p>
-<a href="https://spark.apache.org/docs/latest/api/python/">
-  <img alt="Logo Framework PySpark" title="PySpark" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoPySpark.jpeg" height="50px"/>
-</a>
-<a href="https://pandas.pydata.org/">
-  <img alt="Logo Framework Pandas" title="Pandas" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoPandas.png" height="50px"/>
-</a>
-<a href="https://delta.io/">
-  <img alt="Logo Delta Lake" title="Delta Lake" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoDeltaLake.png" height="50px"/>
-</a>
-
-<p><strong>:cloud: Cloud:</strong></p>
-<a href="https://azure.microsoft.com/pt-br/">
-  <img alt="Logo Azure" title="Microsoft Azure" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoAzure.png" height="50px"/>
-</a>
-<a href="https://azure.microsoft.com/pt-br/products/databricks/#overview">
-  <img alt="Logo Databricks" title="Databricks" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoDataBricks.png" height="50px"/>
-</a>
-<a href="https://azure.microsoft.com/pt-br/products/data-factory/">
-  <img alt="Logo Datafactory" title="Azure Datafactory" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoDataFactory.png" height="50px"/>
-</a>
-<a href="https://azure.microsoft.com/pt-br/products/kubernetes-service/">
-  <img alt="Logo AKS" title="Azure Kubernetes Service" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Azure-Kubernetes-Service.png" height="50px"/>
-</a>
-<a href="https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction/">
-  <img alt="Logo Storage Account" title="Azure Storage Account" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Azure-Storage-Account.png" height="50px"/>
-</a>
-<a href="https://aws.amazon.com/pt/">
-  <img alt="Logo AWS" title="AWS" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoAWS.png" height="50px"/>
-</a>
-<a href="https://aws.amazon.com/pt/rds/">
-  <img alt="Logo RDS" title="AWS Relacional Database Service" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-RDS.png" height="50px"/>
-</a>
-<a href="https://aws.amazon.com/pt/eks/">
-  <img alt="Logo EKS" title="AWS Elastic Kubernetes Service" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EKS.jpg" height="50px"/>
-</a>
-<a href="https://aws.amazon.com/pt/ec2/">
-  <img alt="Logo EC2" title="AWS EC2" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-EC2.png" height="50px"/>
-</a>
-
-<p><strong>:hammer_and_wrench: IDEs:</strong></p>
-<a href="https://code.visualstudio.com/">
-  <img alt="VSCode" title="Visual Studio Code" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/VSCode-Icon.png" height="50px"/>
-</a>
-<a href="https://www.jetbrains.com/pycharm/">
-  <img alt="PyCharm" title="PyCharm" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Pycharm-Icon.png" height="50px"/>
-</a>
-<a href="https://eclipseide.org/">
-  <img alt="Eclipse" title="Eclipse" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Eclipse-Icon.png" height="50px"/>
-</a>
-
+<table>
+  <tr>
+    <td><a href="https://www.devmedia.com.br/python-tutorial/33274#:~:text=Python%20%C3%A9%20uma%20linguagem%20de,C%2B%2B%2C%20Java%20e%20C%23.">
+      <img alt="Logo Linguagem Python" title="Python" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/python.jpg" height="50px"/>
+    </a></td>
+    <td><a href="https://www.java.com/pt-BR/download/help/whatis_java.html">
+      <img alt="Logo Linguagem Java" title="Java" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoJava.png" height="50px"/>
+    </a></td>
+    <td><a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics">
+      <img alt="Logo Linguagem HTML" title="HTML" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoHTML.png" height="50px"/>
+    </a></td>
+    <td><a href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps/What_is_CSS">
+      <img alt="Logo Linguagem CSS" title="CSS" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoCSS.png" height="50px"/>
+    </a></td>
+    <td><a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
+      <img alt="Logo Linguagem Javascript" title="Javascript" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoJavascript1.png" height="50px"/>
+    </a></td>
+  </tr>
+</table>
 
 <h2>:keyboard: Tools</h2>
 
