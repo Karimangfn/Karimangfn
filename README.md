@@ -182,6 +182,10 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
       <a href="https://www.microsoft.com/pt-br/microsoft-365/onenote/digital-note-taking">
         <img alt="OneNote" title="OneNote" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoOneNote.png" height="50px"/>
       </a>
+      </a>
+      <a href="https://www.microsoft.com/pt-br/microsoft-teams/">
+        <img alt="Teams" title="Teams" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/LogoTeams.png" height="50px"/>
+      </a>
     </td>
   </tr>
 </table>
