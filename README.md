@@ -194,10 +194,8 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 </table>
 
 <h2>Details</h2>
-<div>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karimangfn&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karimangfn&layout=compact&theme=radical)
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karimangfn&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karimangfn&layout=compact&theme=radical)
 
 <br>
 <h2> :iphone: Contato</h2> 
