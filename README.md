@@ -195,8 +195,8 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 
 <h2>Details</h2>
 <div>
-[![Iury's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuryrosal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuryrosal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=iuryrosal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=iuryrosal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br>
