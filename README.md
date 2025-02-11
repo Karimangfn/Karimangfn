@@ -195,8 +195,8 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 
 <h2>Details</h2>
 <div>
-(https://github-readme-stats.vercel.app/api?username=Karimangfn&show_icons=true&theme=radical)(https://github.com/anuraghazra/github-readme-stats)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Karimangfn&layout=compact&theme=radical)(https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karimangfn&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karimangfn&layout=compact&theme=radical)
 </div>
 
 <br>
