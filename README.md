@@ -194,8 +194,12 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 </table>
 
 ## Details
-[![Kariman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karimangfn&show_icons=true&theme=radical)](https://github.com/Karimangfn/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karimangfn&layout=compact&theme=radical)](https://github.com/Karimangfn/github-readme-stats)
+<a href="https://github.com/Karimangfn/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karimangfn&show_icons=true&theme=radical" width="400" />
+</a>
+<a href="https://github.com/Karimangfn/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karimangfn&layout=compact&theme=radical" width="400" />
+</a>
 
 <br>
 <h2> :iphone: Contato</h2> 
