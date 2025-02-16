@@ -206,7 +206,7 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 
 <p>
 <a href="https://www.linkedin.com/in/kariman-gomes/" alt="Linkedin"> 
-<img src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/Linkedin-Logo.png" height="80px"/> 
+<img src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Linkedin-Logo.png" height="80px"/> 
 </a>
   
 </p>
