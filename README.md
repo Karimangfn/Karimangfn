@@ -68,7 +68,7 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
         <img alt="Logo AWS" title="AWS" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoAWS.png" height="50px"/>
       </a>
       <a href="https://aws.amazon.com/pt/rds/">
-        <img alt="Logo RDS" title="AWS Relacional Database Service" src="https://github.com/Karimangfn/Images-Perfil-Github/blob/main/AWS-RDS.png" height="50px"/>
+        <img alt="Logo RDS" title="AWS Relacional Database Service" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/AWS-RDS.png" height="50px"/>
       </a>
       <a href="https://aws.amazon.com/pt/eks/">
         <img alt="Logo EKS" title="AWS Elastic Kubernetes Service" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/AWS-EKS.jpg" height="50px"/>
