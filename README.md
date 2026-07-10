@@ -4,12 +4,6 @@
 Data Engineer • Backend Python Developer • Cloud • DevOps • AI Enthusiast
 </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/kariman-gomes/">
-<img src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Linkedin-Logo.png" height="70px"/>
-</a>
-</p>
-
 ---
 
 ## 👋 About Me
@@ -28,23 +22,6 @@ Atualmente também venho aprofundando meus conhecimentos em Inteligência Artifi
 
 - 📚 **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)**
 - 🏫 **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)**
-
----
-
-## 🚀 Current Focus
-
-- Data Engineering
-- Backend Python
-- Cloud Architecture
-- Azure & AWS
-- Databricks
-- Kubernetes
-- Terraform
-- DevOps
-- AI Agents
-- LLM Applications
-- MCP
-- Generative AI
 
 ---
 
