@@ -30,8 +30,6 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
 
 <h3 align="center">💻 Languages</h3>
 
-<hr>
-
 <p align="center">
 <img alt="Python" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/python.jpg" height="45"/>
 <img alt="Java" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoJava.png" height="45"/>
