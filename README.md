@@ -53,7 +53,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
   <tr>
     <!-- ROW 2: Cloud Azure, Cloud AWS, Databases -->
     <td valign="top" width="33%" colspan="2">
-      <p><strong>:cloud: Cloud Azure</strong></p>
+      <p><strong>:cloud: Azure</strong></p>
       <img alt="Azure" title="Microsoft Azure" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoAzure.png" height="45"/>
       <img alt="Databricks" title="Databricks" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDataBricks.png" height="45"/>
       <img alt="Azure Data Factory" title="Azure Data Factory" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDataFactory.png" height="45"/>
@@ -62,7 +62,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
       <img alt="Azure KeyVault" title="Azure KeyVault" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/key-vault.png" height="45"/>
     </td>
     <td valign="top" width="33%" colspan="2">
-      <p><strong>:cloud: Cloud AWS</strong></p>
+      <p><strong>:cloud: AWS</strong></p>
       <img alt="AWS" title="AWS" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoAWS.png" height="45"/>
       <img alt="AWS RDS" title="AWS RDS" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/AWS-RDS.png" height="45"/>
       <img alt="AWS EKS" title="AWS EKS" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/AWS-EKS.jpg" height="45"/>
