@@ -22,7 +22,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
 
 ---
 
-## :keyboard: Tools
+:keyboard: Tools
 
 <table border="0" cellspacing="0" cellpadding="12" style="width: 100%; table-layout: fixed;">
   <tr>
@@ -76,14 +76,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
     </td>
   </tr>
   <tr>
-    <!-- ROW 3: Observability, Containers, IaC & Security -->
-    <td valign="top" style="width: 33.33%;">
-      <p style="border-bottom:1px solid #d0d7de;padding-bottom:8px;margin-bottom:10px;"><strong>:bar_chart: Observability</strong></p>
-      <img alt="Dynatrace" title="Dynatrace" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Dynatrace.png" height="45"/>
-      <img alt="Kibana" title="Kibana" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Kibana.png" height="45"/>
-      <img alt="Grafana" title="Grafana" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Grafana.jpg" height="45"/>
-      <img alt="Splunk" title="Splunk" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/splunk.png" height="45"/>
-    </td>
+    <!-- ROW 3: Containers, Observability, DevOps & Automation -->
     <td valign="top" style="width: 33.33%;">
       <p style="border-bottom:1px solid #d0d7de;padding-bottom:8px;margin-bottom:10px;"><strong>:package: Containers</strong></p>
       <img alt="Docker" title="Docker" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Docker.png" height="45"/>
@@ -93,19 +86,26 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
       <img alt="Rancher Desktop" title="Rancher Desktop" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Rancher-Desktop.png" height="45"/>
     </td>
     <td valign="top" style="width: 33.33%;">
-      <p style="border-bottom:1px solid #d0d7de;padding-bottom:8px;margin-bottom:10px;"><strong>:scroll: IaC & Security</strong></p>
-      <img alt="Terraform" title="Terraform" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Terraform.png" height="45"/>
-      <img alt="HashiCorp Vault" title="HashiCorp Vault" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/hashicorp-vault.png" height="45"/>
+      <p style="border-bottom:1px solid #d0d7de;padding-bottom:8px;margin-bottom:10px;"><strong>:bar_chart: Observability</strong></p>
+      <img alt="Dynatrace" title="Dynatrace" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Dynatrace.png" height="45"/>
+      <img alt="Kibana" title="Kibana" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Kibana.png" height="45"/>
+      <img alt="Grafana" title="Grafana" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Grafana.jpg" height="45"/>
+      <img alt="Splunk" title="Splunk" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/splunk.png" height="45"/>
     </td>
-  </tr>
-  <tr>
-    <!-- ROW 4: DevOps, Artifacts, Design Tools -->
     <td valign="top" style="width: 33.33%;">
       <p style="border-bottom:1px solid #d0d7de;padding-bottom:8px;margin-bottom:10px;"><strong>:arrows_counterclockwise: DevOps & Automation</strong></p>
       <img alt="Jenkins" title="Jenkins" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Jenkins.png" height="45"/>
       <img alt="GitHub Actions" title="GitHub Actions" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Github-Actions.png" height="45"/>
       <img alt="ArgoCD" title="ArgoCD" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/ArgoCD.png" height="45"/>
       <img alt="Control-M" title="Control-M" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/control-m.png" height="45"/>
+    </td>
+  </tr>
+  <tr>
+    <!-- ROW 4: IaC & Security, Artifacts, Design & Architecture -->
+    <td valign="top" style="width: 33.33%;">
+      <p style="border-bottom:1px solid #d0d7de;padding-bottom:8px;margin-bottom:10px;"><strong>:scroll: IaC & Security</strong></p>
+      <img alt="Terraform" title="Terraform" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Terraform.png" height="45"/>
+      <img alt="HashiCorp Vault" title="HashiCorp Vault" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/hashicorp-vault.png" height="45"/>
     </td>
     <td valign="top" style="width: 33.33%;">
       <p style="border-bottom:1px solid #d0d7de;padding-bottom:8px;margin-bottom:10px;"><strong>:file_folder: Artifacts</strong></p>
@@ -119,8 +119,8 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
     </td>
   </tr>
   <tr>
-    <!-- ROW 5: AI Tools & Administration / Management -->
-    <td valign="top" style="width: 33.33%;">
+    <!-- ROW 5: AI Tools, Management & Admin — only 2 columns, no empty cell -->
+    <td valign="top" style="width: 50%;">
       <p style="border-bottom:1px solid #d0d7de;padding-bottom:8px;margin-bottom:10px;"><strong>:robot: AI Tools</strong></p>
       <img alt="ChatGPT" title="ChatGPT" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/chatgpt.png" height="45"/>
       <img alt="Claude" title="Claude" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/claude-icon.png" height="45"/>
@@ -130,7 +130,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
       <img alt="Devin" title="Devin" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/devin.png" height="45"/>
       <img alt="Databricks Assistant" title="Databricks Assistant" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDataBricks.png" height="45"/>
     </td>
-    <td valign="top" style="width: 33.33%;">
+    <td valign="top" style="width: 50%;">
       <p style="border-bottom:1px solid #d0d7de;padding-bottom:8px;margin-bottom:10px;"><strong>:briefcase: Management & Admin</strong></p>
       <img alt="Jira" title="Jira" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/jira-icon.png" height="45"/>
       <img alt="Apptio" title="Apptio" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/apptio.png" height="45"/>
@@ -141,8 +141,6 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
       <img alt="Outlook" title="Outlook" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoOutlook.png" height="45"/>
       <img alt="Teams" title="Teams" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoTeams.png" height="45"/>
     </td>
-    <!-- Célula vazia para manter o alinhamento de 3 colunas -->
-    <td style="width: 33.33%;"></td>
   </tr>
 </table>
 
