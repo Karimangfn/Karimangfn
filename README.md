@@ -26,20 +26,16 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
 
 <table border="0" cellspacing="0" cellpadding="12">
 
-<tr>
-
 <td valign="top" width="50%">
 
-<h3>💻 Languages</h3>
+<h3 align="center">💻 Languages</h3>
 
-━━━━━━━━━━━━━━━━━━━━
-
-<p>
-<img alt="Python" title="Python" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/python.jpg" height="45"/>
-<img alt="Java" title="Java" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoJava.png" height="45"/>
-<img alt="HTML" title="HTML" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoHTML.png" height="45"/>
-<img alt="CSS" title="CSS" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoCSS.png" height="45"/>
-<img alt="Javascript" title="Javascript" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoJavascript1.png" height="45"/>
+<p align="center">
+<img alt="Python" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/python.jpg" height="45"/>
+<img alt="Java" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoJava.png" height="45"/>
+<img alt="HTML" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoHTML.png" height="45"/>
+<img alt="CSS" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoCSS.png" height="45"/>
+<img alt="Javascript" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoJavascript1.png" height="45"/>
 </p>
 
 </td>
