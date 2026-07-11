@@ -1,4 +1,4 @@
-<h2>👨‍💻 Olá, Me Chamo Kariman Gomes</h2>
+<h2 align="center">👨‍💻 Olá, Me Chamo Kariman Gomes</h2>
 
 <p>
 Sou desenvolvedor backend Python e engenheiro de dados, com experiência em Databricks, Azure e AWS, especializado na construção de pipelines de ingestão de dados e no desenvolvimento de soluções escaláveis em nuvem.
