@@ -124,7 +124,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
       <p><strong>:robot: AI Tools</strong></p>
       <img alt="ChatGPT" title="ChatGPT" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/chatgpt.png" height="45"/>
       <img alt="Claude" title="Claude" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/claude-icon.png" height="45"/>
-      <img alt="Gemini" title="Gemini" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/gemini-icon.png" height="45"/>
+      <img alt="Gemini" title="Gemini" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/gemini-icon.svg" height="45"/>
       <img alt="GitHub Copilot" title="GitHub Copilot" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/github-copilot.png" height="45"/>
       <img alt="Cursor" title="Cursor" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/cursor.png" height="45"/>
       <img alt="Devin" title="Devin" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/devin.png" height="45"/>
