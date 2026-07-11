@@ -22,7 +22,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
 
 ---
 
-:keyboard: Tools
+## 🛠️ Tools
 
 <table border="0" cellspacing="0" cellpadding="8" width="100%">
   <tr>
