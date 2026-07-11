@@ -46,11 +46,15 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
     <!-- ROW 2: Cloud & IDEs -->
     <td valign="top">
       <p style="border-bottom:1px solid #d0d7de;padding-bottom:8px;margin-bottom:10px;"><strong>:cloud: Cloud</strong></p>
+      <!-- Bloco Azure -->
+      <p style="margin: 5px 0; font-size: 13px; color: #57606a;"><em>Azure</em></p>
       <img alt="Azure" title="Microsoft Azure" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoAzure.png" height="45"/>
       <img alt="Databricks" title="Databricks" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDataBricks.png" height="45"/>
       <img alt="Azure Data Factory" title="Azure Data Factory" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDataFactory.png" height="45"/>
       <img alt="AKS" title="Azure Kubernetes Service" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Azure-Kubernetes-Service.png" height="45"/>
       <img alt="Azure Storage Account" title="Azure Storage Account" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Azure-Storage-Account.png" height="45"/>
+      <!-- Bloco AWS -->
+      <p style="margin: 15px 0 5px 0; font-size: 13px; color: #57606a;"><em>AWS</em></p>
       <img alt="AWS" title="AWS" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoAWS.png" height="45"/>
       <img alt="AWS RDS" title="AWS RDS" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/AWS-RDS.png" height="45"/>
       <img alt="AWS EKS" title="AWS EKS" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/AWS-EKS.jpg" height="45"/>
