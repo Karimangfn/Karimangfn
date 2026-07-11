@@ -40,6 +40,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
       <img alt="PySpark" title="PySpark" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoPySpark.jpeg" height="45"/>
       <img alt="Pandas" title="Pandas" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoPandas.png" height="45"/>
       <img alt="Delta Lake" title="Delta Lake" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDeltaLake.png" height="45"/>
+      <img alt="Mlflow" title="Mlflow" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/mlflow.jpeg" height="45"/>
     </td>
     <td valign="top" width="33%" colspan="2">
       <p><strong>:hammer_and_wrench: IDEs</strong></p>
