@@ -4,6 +4,8 @@
   💻 Data Engineer & Backend Python Developer&nbsp;|&nbsp;☁️ Databricks • Azure • AWS&nbsp;|&nbsp;📍 Brazil
 </p>
 
+---
+
 ## 🚀 About Me
 
 <p>
