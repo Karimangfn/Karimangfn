@@ -60,12 +60,8 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
   <tr>
     <td valign="top" width="50%">
       <strong>:cloud: Cloud</strong><br/>
-      <a href="https://azure.microsoft.com/pt-br/">
-        <img alt="Logo Azure" title="Microsoft Azure" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoAzure.png" height="45px"/>
-      </a>
-      <a href="https://azure.microsoft.com/pt-br/products/databricks/#overview">
-        <img alt="Logo Databricks" title="Databricks" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDataBricks.png" height="45px"/>
-      </a>
+      <img src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoAzure.png" height="45"/>
+      <img src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDataBricks.png" height="45"/>
       <a href="https://azure.microsoft.com/pt-br/products/data-factory/">
         <img alt="Logo Datafactory" title="Azure Datafactory" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDataFactory.png" height="45px"/>
       </a>
