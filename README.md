@@ -4,6 +4,8 @@
   💻 Data Engineer & Backend Python Developer&nbsp;|&nbsp;☁️ Databricks • Azure • AWS&nbsp;|&nbsp;📍 Brazil
 </p>
 
+## 🚀 About Me
+
 <p>
 Backend Python developer and data engineer with experience in Databricks, Azure and AWS, specialized in building data ingestion pipelines and developing scalable cloud solutions.
 I follow best practices to design Data Driven architectures, using Python, PySpark and SQL to turn data into strategic insights.
@@ -12,6 +14,8 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
 <p>
 🔭 <strong>Currently focused on:</strong> data pipelines in Databricks/Azure and scalable data engineering best practices.
 </p>
+
+---
 
 ## 🎓 Education
 
@@ -204,14 +208,8 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
       </a>
     </td>
   </tr>
-</table>
-
----
-
-## 🤖 AI Tools
-
-<table>
   <tr>
+    <td><strong>:robot: AI Tools:</strong></td>
     <td>
       <a href="https://github.com/features/copilot">
         <img alt="GitHub Copilot" title="GitHub Copilot" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoGithubCopilot.png" height="50px"/>
