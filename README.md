@@ -31,6 +31,10 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
 <h3 align="center">💻 Languages</h3>
 
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3B82F6,100:06B6D4" width="90%">
+</p>
+
+<p align="center">
 <img alt="Python" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/python.jpg" height="45"/>
 <img alt="Java" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoJava.png" height="45"/>
 <img alt="HTML" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoHTML.png" height="45"/>
