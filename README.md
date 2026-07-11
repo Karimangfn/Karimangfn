@@ -1,18 +1,22 @@
-<h2 align="center">👨‍💻 Olá, Me Chamo Kariman Gomes</h2>
+<h2 align="center">👨‍💻 Hi, I'm Kariman Gomes</h2>
 
-<p>
-Sou desenvolvedor backend Python e engenheiro de dados, com experiência em Databricks, Azure e AWS, especializado na construção de pipelines de ingestão de dados e no desenvolvimento de soluções escaláveis em nuvem.
-Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Python, PySpark e SQL para transformar dados em insights estratégicos.
+<p align="center">
+  💻 Data Engineer & Backend Python Developer&nbsp;|&nbsp;☁️ Databricks • Azure • AWS&nbsp;|&nbsp;📍 Brazil
 </p>
 
 <p>
-🔭 <strong>Focado atualmente em:</strong> pipelines de dados em Databricks/Azure e boas práticas de engenharia de dados escalável.
+Backend Python developer and data engineer with experience in Databricks, Azure and AWS, specialized in building data ingestion pipelines and developing scalable cloud solutions.
+I follow best practices to design Data Driven architectures, using Python, PySpark and SQL to turn data into strategic insights.
 </p>
 
-## 🎓 Formação
+<p>
+🔭 <strong>Currently focused on:</strong> data pipelines in Databricks/Azure and scalable data engineering best practices.
+</p>
 
-<p>:books: Curso: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS).</p>
-<p>:school: Universidade: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.</p>
+## 🎓 Education
+
+<p>:books: Degree: Technology in Systems Analysis and Development (TADS).</p>
+<p>:school: University: Federal Institute of Education, Science and Technology of São Paulo - IFSP.</p>
 
 ---
 
@@ -151,7 +155,7 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
     </td>
   </tr>
   <tr>
-    <td><strong>:scroll: Infraestructure as Code (IaC):</strong></td>
+    <td><strong>:scroll: Infrastructure as Code (IaC):</strong></td>
     <td>
       <a href="https://www.terraform.io/">
         <img alt="Terraform" title="Terraform" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Terraform.png" height="50px"/>
@@ -210,37 +214,41 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
   <tr>
     <td>
       <a href="https://github.com/features/copilot">
-        <img alt="GitHub Copilot" title="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+        <img alt="GitHub Copilot" title="GitHub Copilot" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoGithubCopilot.png" height="50px"/>
       </a>
       <a href="https://claude.ai/">
-        <img alt="Claude" title="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+        <img alt="Claude" title="Claude" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoClaude.png" height="50px"/>
       </a>
       <a href="https://chatgpt.com/">
-        <img alt="ChatGPT" title="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+        <img alt="ChatGPT" title="ChatGPT" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoChatGPT.png" height="50px"/>
       </a>
       <a href="https://www.databricks.com/product/artificial-intelligence/databricks-assistant">
-        <img alt="Databricks Assistant" title="Databricks Assistant" src="https://img.shields.io/badge/Databricks_Assistant-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+        <img alt="Databricks Assistant" title="Databricks Assistant" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDataBricks.png" height="50px"/>
       </a>
     </td>
   </tr>
 </table>
 
-<!-- Ajuste essa lista pra refletir exatamente o que você usa (ex.: Cursor, Windsurf, Claude Code) -->
+<!--
+Upload the missing logo files (LogoGithubCopilot.png, LogoClaude.png, LogoChatGPT.png) to your Images
+folder, same pattern as the rest of this page. Official SVGs/PNGs: https://simpleicons.org
+(search "GitHub Copilot", "Claude", "OpenAI", click download).
+-->
 
 ---
 
-## 📜 Certificações
+## 📜 Certifications
 
-<!-- Preencha com suas certificações reais. Modelo abaixo: -->
+<!-- Fill in with your real certifications. Template below: -->
 
-| Certificação | Instituição | Ano |
+| Certification | Institution | Year |
 |---|---|---|
-| _ex: Databricks Certified Data Engineer Associate_ | _ex: Databricks_ | _ex: 2025_ |
-| _ex: Microsoft Certified: Azure Data Engineer Associate_ | _ex: Microsoft_ | _ex: 2025_ |
+| _e.g. Databricks Certified Data Engineer Associate_ | _e.g. Databricks_ | _e.g. 2025_ |
+| _e.g. Microsoft Certified: Azure Data Engineer Associate_ | _e.g. Microsoft_ | _e.g. 2025_ |
 
 ---
 
-## 📊 Details
+## 📊 GitHub Stats
 <a href="https://github.com/Karimangfn/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Karimangfn&show_icons=true&theme=radical" width="400" />
 </a>
@@ -250,7 +258,7 @@ Utilizo as melhores práticas para criar arquiteturas Data Driven, empregando Py
 
 ---
 
-<h2>:iphone: Contato</h2>
+<h2>:iphone: Contact</h2>
 
 <p>
 <a href="https://www.linkedin.com/in/kariman-gomes/" alt="Linkedin">
