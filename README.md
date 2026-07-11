@@ -27,7 +27,9 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
 <table border="0" cellspacing="0" cellpadding="12">
 
 <td valign="top" width="50%">
-  <strong style="display: block; border-bottom: 1px solid #d0d7de; padding-bottom: 8px; margin-bottom: 10px;">:computer: Languages</strong>
+  <p style="border-bottom: 1px solid #d0d7de; padding-bottom: 8px; margin-bottom: 10px;">
+    <strong>:computer: Languages</strong>
+  </p>
   <img alt="Python" title="Python" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/python.jpg" height="45"/>
   <img alt="Java" title="Java" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoJava.png" height="45"/>
   <img alt="HTML" title="HTML" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoHTML.png" height="45"/>
