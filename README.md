@@ -128,7 +128,6 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
       <img alt="GitHub Copilot" title="GitHub Copilot" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/github-copilot.png" height="45"/>
       <img alt="Cursor" title="Cursor" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/cursor.png" height="45"/>
       <img alt="Devin" title="Devin" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/devin.png" height="45"/>
-      <img alt="Databricks Assistant" title="Databricks Assistant" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDataBricks.png" height="45"/>
     </td>
     <td valign="top" width="50%" colspan="3">
       <p><strong>:briefcase: Management & Admin</strong></p>
