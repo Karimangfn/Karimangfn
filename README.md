@@ -25,195 +25,152 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
 ## :keyboard: Tools
 
 <table border="0" cellspacing="0" cellpadding="12">
-  <tr>
-    <td valign="top" width="50%">
-      <strong>:symbols: Languages</strong><br/>
-      <a href="https://www.devmedia.com.br/python-tutorial/33274#:~:text=Python%20%C3%A9%20uma%20linguagem%20de,C%2B%2B%2C%20Java%20e%20C%23.">
-        <img alt="Logo Linguagem Python" title="Python" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/python.jpg" height="45px"/>
-      </a>
-      <a href="https://www.java.com/pt-BR/download/help/whatis_java.html">
-        <img alt="Logo Linguagem Java" title="Java" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoJava.png" height="45px"/>
-      </a>
-      <a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics">
-        <img alt="Logo Linguagem HTML" title="HTML" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoHTML.png" height="45px"/>
-      </a>
-      <a href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps/What_is_CSS">
-        <img alt="Logo Linguagem CSS" title="CSS" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoCSS.png" height="45px"/>
-      </a>
-      <a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
-        <img alt="Logo Linguagem Javascript" title="Javascript" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoJavascript1.png" height="45px"/>
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <strong>:bookmark_tabs: Frameworks</strong><br/>
-      <a href="https://spark.apache.org/docs/latest/api/python/">
-        <img alt="Logo Framework PySpark" title="PySpark" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoPySpark.jpeg" height="45px"/>
-      </a>
-      <a href="https://pandas.pydata.org/">
-        <img alt="Logo Framework Pandas" title="Pandas" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoPandas.png" height="45px"/>
-      </a>
-      <a href="https://delta.io/">
-        <img alt="Logo Delta Lake" title="Delta Lake" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDeltaLake.png" height="45px"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>:cloud: Cloud</strong><br/>
-      <img src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoAzure.png" height="45"/>
-      <img src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDataBricks.png" height="45"/>
-      <a href="https://azure.microsoft.com/pt-br/products/data-factory/">
-        <img alt="Logo Datafactory" title="Azure Datafactory" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDataFactory.png" height="45px"/>
-      </a>
-      <a href="https://azure.microsoft.com/pt-br/products/kubernetes-service/">
-        <img alt="Logo AKS" title="Azure Kubernetes Service" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Azure-Kubernetes-Service.png" height="45px"/>
-      </a>
-      <a href="https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction/">
-        <img alt="Logo Storage Account" title="Azure Storage Account" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Azure-Storage-Account.png" height="45px"/>
-      </a>
-      <a href="https://aws.amazon.com/pt/">
-        <img alt="Logo AWS" title="AWS" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoAWS.png" height="45px"/>
-      </a>
-      <a href="https://aws.amazon.com/pt/rds/">
-        <img alt="Logo RDS" title="AWS Relacional Database Service" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/AWS-RDS.png" height="45px"/>
-      </a>
-      <a href="https://aws.amazon.com/pt/eks/">
-        <img alt="Logo EKS" title="AWS Elastic Kubernetes Service" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/AWS-EKS.jpg" height="45px"/>
-      </a>
-      <a href="https://aws.amazon.com/pt/ec2/">
-        <img alt="Logo EC2" title="AWS EC2" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/AWS-EC2.png" height="45px"/>
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <strong>:hammer_and_wrench: IDEs</strong><br/>
-      <a href="https://code.visualstudio.com/">
-        <img alt="VSCode" title="Visual Studio Code" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/VSCode-Icon.png" height="45px"/>
-      </a>
-      <a href="https://www.jetbrains.com/pycharm/">
-        <img alt="PyCharm" title="PyCharm" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Pycharm-Icon.png" height="45px"/>
-      </a>
-      <a href="https://eclipseide.org/">
-        <img alt="Eclipse" title="Eclipse" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Eclipse-Icon.png" height="45px"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>:floppy_disk: Databases</strong><br/>
-      <a href="https://learn.microsoft.com/pt-br/sql/sql-server/what-is-sql-server?view=sql-server-ver16">
-        <img alt="SQL Server" title="SQL Server" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/SQLServer.png" height="45px"/>
-      </a>
-      <a href="https://www.mysql.com/">
-        <img alt="MySQL" title="MySQL" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/MySQL.png" height="45px"/>
-      </a>
-      <a href="https://www.postgresql.org/">
-        <img alt="PostgreSQL" title="PostgreSQL" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/PostgreSQL.png" height="45px"/>
-      </a>
-      <a href="https://www.sqlite.org/">
-        <img alt="SQLite" title="SQLite" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/SQLite.png" height="45px"/>
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <strong>:bar_chart: Monitoring and Observability</strong><br/>
-      <a href="https://www.dynatrace.com/pt-br/">
-        <img alt="Dynatrace" title="Dynatrace" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Dynatrace.png" height="45px"/>
-      </a>
-      <a href="https://www.elastic.co/pt/kibana/">
-        <img alt="Kibana" title="Kibana" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Kibana.png" height="45px"/>
-      </a>
-      <a href="https://grafana.com/">
-        <img alt="Grafana" title="Grafana" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Grafana.jpg" height="45px"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>:package: Containerization and Orchestration</strong><br/>
-      <a href="https://www.docker.com/">
-        <img alt="Docker" title="Docker" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Docker.png" height="45px"/>
-      </a>
-      <a href="https://kubernetes.io/pt-br/">
-        <img alt="Kubernetes" title="Kubernetes" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Kubernetes.png" height="45px"/>
-      </a>
-      <a href="https://www.redhat.com/pt-br/technologies/cloud-computing/openshift/">
-        <img alt="OpenShift" title="OpenShift" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/OpenShift.png" height="45px"/>
-      </a>
-      <a href="https://helm.sh/">
-        <img alt="Helm" title="Helm" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Helm.png" height="45px"/>
-      </a>
-      <a href="https://rancherdesktop.io/">
-        <img alt="Rancher Desktop" title="Rancher Desktop" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Rancher-Desktop.png" height="45px"/>
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <strong>:scroll: Infrastructure as Code (IaC)</strong><br/>
-      <a href="https://www.terraform.io/">
-        <img alt="Terraform" title="Terraform" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Terraform.png" height="45px"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>:arrows_counterclockwise: DevOps</strong><br/>
-      <a href="https://www.jenkins.io/">
-        <img alt="Jenkins" title="Jenkins" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Jenkins.png" height="45px"/>
-      </a>
-      <a href="https://github.com/features/actions">
-        <img alt="Github Actions" title="Github Actions" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Github-Actions.png" height="45px"/>
-      </a>
-      <a href="https://argo-cd.readthedocs.io/en/stable/">
-        <img alt="ArgoCD" title="ArgoCD" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/ArgoCD.png" height="45px"/>
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <strong>:file_folder: Artifacts</strong><br/>
-      <a href="https://jfrog.com/artifactory/">
-        <img alt="JFrog Artifactory" title="JFrog Artifactory" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/JFrog.png" height="45px"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>:man_office_worker: Administration</strong><br/>
-      <a href="https://www.microsoft.com/pt-br/microsoft-365/word/">
-        <img alt="Word" title="Word" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoWord.png" height="45px"/>
-      </a>
-      <a href="https://www.microsoft.com/pt-br/microsoft-365/excel/">
-        <img alt="Excel" title="Excel" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoExcel.png" height="45px"/>
-      </a>
-      <a href="https://www.microsoft.com/pt-br/microsoft-365/powerpoint/">
-        <img alt="Power Point" title="Power Point" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoPowerPoint.png" height="45px"/>
-      </a>
-      <a href="https://www.microsoft.com/pt-br/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook/">
-        <img alt="Outlook" title="Outlook" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoOutlook.png" height="45px"/>
-      </a>
-      <a href="https://www.microsoft.com/pt-br/microsoft-teams/">
-        <img alt="Teams" title="Teams" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoTeams.png" height="45px"/>
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <strong>:robot: AI Tools</strong><br/>
-      <a href="https://github.com/features/copilot">
-        <img alt="GitHub Copilot" title="GitHub Copilot" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoGithubCopilot.png" height="45px"/>
-      </a>
-      <a href="https://claude.ai/">
-        <img alt="Claude" title="Claude" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoClaude.png" height="45px"/>
-      </a>
-      <a href="https://chatgpt.com/">
-        <img alt="ChatGPT" title="ChatGPT" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoChatGPT.png" height="45px"/>
-      </a>
-      <a href="https://www.databricks.com/product/artificial-intelligence/databricks-assistant">
-        <img alt="Databricks Assistant" title="Databricks Assistant" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDataBricks.png" height="45px"/>
-      </a>
-    </td>
-  </tr>
+
+<tr>
+
+<td valign="top" width="50%">
+<strong>:symbols: Languages</strong><br/>
+
+<img alt="Python" title="Python" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/python.jpg" height="45"/>
+<img alt="Java" title="Java" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoJava.png" height="45"/>
+<img alt="HTML" title="HTML" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoHTML.png" height="45"/>
+<img alt="CSS" title="CSS" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoCSS.png" height="45"/>
+<img alt="Javascript" title="Javascript" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoJavascript1.png" height="45"/>
+
+</td>
+
+<td valign="top" width="50%">
+<strong>:bookmark_tabs: Frameworks</strong><br/>
+
+<img alt="PySpark" title="PySpark" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoPySpark.jpeg" height="45"/>
+<img alt="Pandas" title="Pandas" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoPandas.png" height="45"/>
+<img alt="Delta Lake" title="Delta Lake" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDeltaLake.png" height="45"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+<strong>:cloud: Cloud</strong><br/>
+
+<img alt="Azure" title="Microsoft Azure" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoAzure.png" height="45"/>
+<img alt="Databricks" title="Databricks" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDataBricks.png" height="45"/>
+<img alt="Azure Data Factory" title="Azure Data Factory" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDataFactory.png" height="45"/>
+<img alt="AKS" title="Azure Kubernetes Service" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Azure-Kubernetes-Service.png" height="45"/>
+<img alt="Azure Storage Account" title="Azure Storage Account" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Azure-Storage-Account.png" height="45"/>
+<img alt="AWS" title="AWS" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoAWS.png" height="45"/>
+<img alt="AWS RDS" title="AWS RDS" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/AWS-RDS.png" height="45"/>
+<img alt="AWS EKS" title="AWS EKS" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/AWS-EKS.jpg" height="45"/>
+<img alt="AWS EC2" title="AWS EC2" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/AWS-EC2.png" height="45"/>
+
+</td>
+
+<td valign="top">
+<strong>:hammer_and_wrench: IDEs</strong><br/>
+
+<img alt="VS Code" title="VS Code" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/VSCode-Icon.png" height="45"/>
+<img alt="PyCharm" title="PyCharm" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Pycharm-Icon.png" height="45"/>
+<img alt="Eclipse" title="Eclipse" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Eclipse-Icon.png" height="45"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+<strong>:floppy_disk: Databases</strong><br/>
+
+<img alt="SQL Server" title="SQL Server" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/SQLServer.png" height="45"/>
+<img alt="MySQL" title="MySQL" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/MySQL.png" height="45"/>
+<img alt="PostgreSQL" title="PostgreSQL" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/PostgreSQL.png" height="45"/>
+<img alt="SQLite" title="SQLite" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/SQLite.png" height="45"/>
+
+</td>
+
+<td valign="top">
+<strong>:bar_chart: Monitoring and Observability</strong><br/>
+
+<img alt="Dynatrace" title="Dynatrace" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Dynatrace.png" height="45"/>
+<img alt="Kibana" title="Kibana" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Kibana.png" height="45"/>
+<img alt="Grafana" title="Grafana" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Grafana.jpg" height="45"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+<strong>:package: Containerization and Orchestration</strong><br/>
+
+<img alt="Docker" title="Docker" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Docker.png" height="45"/>
+<img alt="Kubernetes" title="Kubernetes" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Kubernetes.png" height="45"/>
+<img alt="OpenShift" title="OpenShift" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/OpenShift.png" height="45"/>
+<img alt="Helm" title="Helm" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Helm.png" height="45"/>
+<img alt="Rancher Desktop" title="Rancher Desktop" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Rancher-Desktop.png" height="45"/>
+
+</td>
+
+<td valign="top">
+<strong>:scroll: Infrastructure as Code (IaC)</strong><br/>
+
+<img alt="Terraform" title="Terraform" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Terraform.png" height="45"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+<strong>:arrows_counterclockwise: DevOps</strong><br/>
+
+<img alt="Jenkins" title="Jenkins" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Jenkins.png" height="45"/>
+<img alt="GitHub Actions" title="GitHub Actions" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Github-Actions.png" height="45"/>
+<img alt="ArgoCD" title="ArgoCD" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/ArgoCD.png" height="45"/>
+
+</td>
+
+<td valign="top">
+<strong>:file_folder: Artifacts</strong><br/>
+
+<img alt="JFrog Artifactory" title="JFrog Artifactory" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/JFrog.png" height="45"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+<strong>:man_office_worker: Administration</strong><br/>
+
+<img alt="Word" title="Word" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoWord.png" height="45"/>
+<img alt="Excel" title="Excel" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoExcel.png" height="45"/>
+<img alt="PowerPoint" title="PowerPoint" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoPowerPoint.png" height="45"/>
+<img alt="Outlook" title="Outlook" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoOutlook.png" height="45"/>
+<img alt="Teams" title="Teams" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoTeams.png" height="45"/>
+
+</td>
+
+<td valign="top">
+<strong>:robot: AI Tools</strong><br/>
+
+<img alt="GitHub Copilot" title="GitHub Copilot" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoGithubCopilot.png" height="45"/>
+<img alt="Claude" title="Claude" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoClaude.png" height="45"/>
+<img alt="ChatGPT" title="ChatGPT" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoChatGPT.png" height="45"/>
+<img alt="Databricks Assistant" title="Databricks Assistant" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDataBricks.png" height="45"/>
+
+</td>
+
+</tr>
+
 </table>
 
-<!--
-Upload the missing logo files (LogoGithubCopilot.png, LogoClaude.png, LogoChatGPT.png) to your Images
-folder, same pattern as the rest of this page. Official SVGs/PNGs: https://simpleicons.org
-(search "GitHub Copilot", "Claude", "OpenAI", click download).
--->
+---
 
 ---
 
