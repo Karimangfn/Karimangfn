@@ -41,8 +41,6 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
 </td>
 
 <td valign="top" width="50%">
-
-<td valign="top" width="50%">
     <strong>:bookmark_tabs: Frameworks</strong><br/>
     <img alt="PySpark" title="PySpark" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoPySpark.jpeg" height="45"/>
     <img alt="Pandas" title="Pandas" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoPandas.png" height="45"/>
