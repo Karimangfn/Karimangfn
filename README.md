@@ -28,6 +28,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
   <tr>
     <!-- ROW 1: Languages, Frameworks, IDEs -->
     <td valign="top" width="33%">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="260" height="1" alt=""/><br/>
       <p><strong>:computer: Languages</strong></p>
       <img alt="Python" title="Python" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/python.jpg" height="45"/>
       <img alt="Java" title="Java" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoJava.png" height="45"/>
@@ -36,12 +37,14 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
       <img alt="Javascript" title="Javascript" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoJavascript1.png" height="45"/>
     </td>
     <td valign="top" width="33%">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="260" height="1" alt=""/><br/>
       <p><strong>:bookmark_tabs: Frameworks</strong></p>
       <img alt="PySpark" title="PySpark" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoPySpark.jpeg" height="45"/>
       <img alt="Pandas" title="Pandas" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoPandas.png" height="45"/>
       <img alt="Delta Lake" title="Delta Lake" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDeltaLake.png" height="45"/>
     </td>
     <td valign="top" width="33%">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="260" height="1" alt=""/><br/>
       <p><strong>:hammer_and_wrench: IDEs</strong></p>
       <img alt="VS Code" title="VS Code" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/VSCode-Icon.png" height="45"/>
       <img alt="PyCharm" title="PyCharm" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Pycharm-Icon.png" height="45"/>
@@ -52,6 +55,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
   <tr>
     <!-- ROW 2: Cloud Azure, Cloud AWS, Databases -->
     <td valign="top" width="33%">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="260" height="1" alt=""/><br/>
       <p><strong>:cloud: Cloud Azure</strong></p>
       <img alt="Azure" title="Microsoft Azure" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoAzure.png" height="45"/>
       <img alt="Databricks" title="Databricks" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDataBricks.png" height="45"/>
@@ -61,6 +65,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
       <img alt="Azure KeyVault" title="Azure KeyVault" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/key-vault.png" height="45"/>
     </td>
     <td valign="top" width="33%">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="260" height="1" alt=""/><br/>
       <p><strong>:cloud: Cloud AWS</strong></p>
       <img alt="AWS" title="AWS" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoAWS.png" height="45"/>
       <img alt="AWS RDS" title="AWS RDS" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/AWS-RDS.png" height="45"/>
@@ -68,6 +73,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
       <img alt="AWS EC2" title="AWS EC2" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/AWS-EC2.png" height="45"/>
     </td>
     <td valign="top" width="33%">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="260" height="1" alt=""/><br/>
       <p><strong>:floppy_disk: Databases</strong></p>
       <img alt="SQL Server" title="SQL Server" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/SQLServer.png" height="45"/>
       <img alt="MySQL" title="MySQL" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/MySQL.png" height="45"/>
@@ -78,6 +84,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
   <tr>
     <!-- ROW 3: Containers, Observability, DevOps & Automation -->
     <td valign="top" width="33%">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="260" height="1" alt=""/><br/>
       <p><strong>:package: Containers</strong></p>
       <img alt="Docker" title="Docker" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Docker.png" height="45"/>
       <img alt="Kubernetes" title="Kubernetes" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Kubernetes.png" height="45"/>
@@ -86,6 +93,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
       <img alt="Rancher Desktop" title="Rancher Desktop" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Rancher-Desktop.png" height="45"/>
     </td>
     <td valign="top" width="33%">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="260" height="1" alt=""/><br/>
       <p><strong>:bar_chart: Observability</strong></p>
       <img alt="Dynatrace" title="Dynatrace" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Dynatrace.png" height="45"/>
       <img alt="Kibana" title="Kibana" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Kibana.png" height="45"/>
@@ -93,6 +101,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
       <img alt="Splunk" title="Splunk" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/splunk.png" height="45"/>
     </td>
     <td valign="top" width="33%">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="260" height="1" alt=""/><br/>
       <p><strong>:arrows_counterclockwise: DevOps & Automation</strong></p>
       <img alt="Jenkins" title="Jenkins" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Jenkins.png" height="45"/>
       <img alt="GitHub Actions" title="GitHub Actions" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Github-Actions.png" height="45"/>
@@ -103,15 +112,18 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
   <tr>
     <!-- ROW 4: IaC & Security, Artifacts, Design & Architecture -->
     <td valign="top" width="33%">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="260" height="1" alt=""/><br/>
       <p><strong>:scroll: IaC & Security</strong></p>
       <img alt="Terraform" title="Terraform" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Terraform.png" height="45"/>
       <img alt="HashiCorp Vault" title="HashiCorp Vault" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/hashicorp-vault.png" height="45"/>
     </td>
     <td valign="top" width="33%">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="260" height="1" alt=""/><br/>
       <p><strong>:file_folder: Artifacts</strong></p>
       <img alt="JFrog Artifactory" title="JFrog Artifactory" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/JFrog.png" height="45"/>
     </td>
     <td valign="top" width="33%">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="260" height="1" alt=""/><br/>
       <p><strong>:pencil2: Design & Architecture</strong></p>
       <img alt="Draw.io" title="Draw.io" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/drawio.svg" height="45"/>
       <img alt="Miro" title="Miro" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/miro.png" height="45"/>
@@ -121,6 +133,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
   <tr>
     <!-- ROW 5: AI Tools, Management & Admin — only 2 columns, no empty cell -->
     <td valign="top" width="50%">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="390" height="1" alt=""/><br/>
       <p><strong>:robot: AI Tools</strong></p>
       <img alt="ChatGPT" title="ChatGPT" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/chatgpt.png" height="45"/>
       <img alt="Claude" title="Claude" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/claude-icon.png" height="45"/>
@@ -131,6 +144,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
       <img alt="Databricks Assistant" title="Databricks Assistant" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDataBricks.png" height="45"/>
     </td>
     <td valign="top" width="50%">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="390" height="1" alt=""/><br/>
       <p><strong>:briefcase: Management & Admin</strong></p>
       <img alt="Jira" title="Jira" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/jira-icon.png" height="45"/>
       <img alt="Apptio" title="Apptio" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/apptio.png" height="45"/>
