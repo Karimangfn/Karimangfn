@@ -29,13 +29,18 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
 <tr>
 
 <td valign="top" width="50%">
-<strong>:symbols: Languages</strong><br/>
 
+<h3>💻 Languages</h3>
+
+━━━━━━━━━━━━━━━━━━━━
+
+<p>
 <img alt="Python" title="Python" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/python.jpg" height="45"/>
 <img alt="Java" title="Java" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoJava.png" height="45"/>
 <img alt="HTML" title="HTML" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoHTML.png" height="45"/>
 <img alt="CSS" title="CSS" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoCSS.png" height="45"/>
 <img alt="Javascript" title="Javascript" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoJavascript1.png" height="45"/>
+</p>
 
 </td>
 
