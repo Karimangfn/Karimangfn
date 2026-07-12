@@ -169,7 +169,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
 
 ---
 
-<h2>:iphone: Contact</h2>
+## 📞 Contact
 
 <p>
 <a href="https://www.linkedin.com/in/kariman-gomes/" alt="Linkedin">
