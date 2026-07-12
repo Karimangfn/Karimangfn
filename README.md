@@ -148,12 +148,12 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
 
 ## 📜 Certifications
 
-<!-- Fill in with your real certifications. Template below: -->
-
-| Certification | Institution | Year |
-|---|---|---|
-| _e.g. Databricks Certified Data Engineer Associate_ | _e.g. Databricks_ | _e.g. 2025_ |
-| _e.g. Microsoft Certified: Azure Data Engineer Associate_ | _e.g. Microsoft_ | _e.g. 2025_ |
+<a href="https://credentials.databricks.com/digital-badge/9d44e54e-your-id-here" target="_blank">
+  <img alt="Databricks Certified Data Engineer Associate" title="Databricks Certified Data Engineer Associate" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Databricks%20Data%20Engineer%20Associate%20(Badge).png" height="55" width="55"/>
+</a>
+<a href="https://credentials.databricks.com/digital-badge/another-id-here" target="_blank">
+  <img alt="Databricks Certified Data Engineer Professional" title="Databricks Certified Data Engineer Professional" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Databricks%20Data%20Engineer%20Professional%20(Badge%20-%20Old).png" height="55" width="55"/>
+</a>
 
 ---
 
