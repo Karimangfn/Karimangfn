@@ -5,7 +5,7 @@
 <h2 align="center">👋 Hi there, I'm Kariman</h2>
 
 <p align="center">
-  💻 Data Engineer & Backend Python Developer&nbsp;|&nbsp;☁️ Databricks • Azure • AWS&nbsp;|&nbsp;📍 Brazil
+  💻 Data & AI Engineer&nbsp;|&nbsp;☁️ Databricks • Azure • AWS&nbsp;|&nbsp;📍 Brazil
 </p>
 
 ---
