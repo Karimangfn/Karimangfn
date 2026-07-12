@@ -160,11 +160,11 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
 ---
 
 ## 📊 GitHub Stats
-<a href="https://github.com/Karimangfn/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karimangfn&show_icons=true&theme=radical" width="400" />
+<a href="https://github.com/Karimangfn">
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Karimangfn&show_icons=true&theme=radical" width="400" />
 </a>
-<a href="https://github.com/Karimangfn/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karimangfn&layout=compact&theme=radical" width="305" />
+<a href="https://github.com/Karimangfn">
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Karimangfn&layout=compact&theme=radical" width="305" />
 </a>
 
 ---
