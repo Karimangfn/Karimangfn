@@ -133,13 +133,13 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
     <td valign="top" width="50%" colspan="3">
       <p><strong>:briefcase: Management & Admin</strong></p>
       <a href="https://www.atlassian.com/software/jira"><img alt="Jira" title="Jira" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/jira-icon.png" height="45"/></a>
+      <a href="https://slack.com/intl/pt-br/"><img alt="Slack" title="Slack" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/slack.svg" height="45"/></a>
       <a href="https://www.apptio.com/"><img alt="Apptio" title="Apptio" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/apptio.png" height="45"/></a>
       <a href="https://powerplatform.microsoft.com/"><img alt="Power Platform" title="Power Platform" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/power-platform.svg" height="45"/></a>
       <a href="https://www.microsoft.com/microsoft-365/word"><img alt="Word" title="Word" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoWord.png" height="45"/></a>
       <a href="https://www.microsoft.com/microsoft-365/excel"><img alt="Excel" title="Excel" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoExcel.png" height="45"/></a>
       <a href="https://www.microsoft.com/microsoft-365/powerpoint"><img alt="PowerPoint" title="PowerPoint" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoPowerPoint.png" height="45"/></a>
       <a href="https://www.microsoft.com/microsoft-365/outlook"><img alt="Outlook" title="Outlook" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoOutlook.png" height="45"/></a>
-      <a href="https://www.microsoft.com/microsoft-teams"><img alt="Teams" title="Teams" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/slack.svg" height="45"/></a>
     </td>
   </tr>
 </table>
