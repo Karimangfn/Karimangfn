@@ -22,7 +22,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Tools
 
 <table border="0" cellspacing="0" cellpadding="8" style="width: 100%; display: table;" width="100%">
   <tr>
@@ -58,8 +58,8 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
       <a href="https://azure.microsoft.com/products/databricks/"><img alt="Databricks" title="Databricks" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDataBricks.png" height="45"/></a>
       <a href="https://azure.microsoft.com/products/data-factory/"><img alt="Azure Data Factory" title="Azure Data Factory" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoDataFactory.png" height="45"/></a>
       <a href="https://azure.microsoft.com/products/kubernetes-service/"><img alt="AKS" title="Azure Kubernetes Service" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Azure-Kubernetes-Service.png" height="45"/></a>
-      <a href="https://azure.microsoft.com/products/key-vault/"><img alt="Azure KeyVault" title="Azure KeyVault" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/key-vault.png" height="45"/></a>
       <a href="https://learn.microsoft.com/azure/storage/common/storage-introduction"><img alt="Azure Storage Account" title="Azure Storage Account" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Azure-Storage-Account.png" height="45"/></a>
+      <a href="https://azure.microsoft.com/products/key-vault/"><img alt="Azure KeyVault" title="Azure KeyVault" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/key-vault.png" height="45"/></a>
     </td>
     <td valign="top" width="33%" colspan="2">
       <p><strong>:cloud: AWS</strong></p>
@@ -139,6 +139,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
       <a href="https://www.microsoft.com/microsoft-365/excel"><img alt="Excel" title="Excel" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoExcel.png" height="45"/></a>
       <a href="https://www.microsoft.com/microsoft-365/powerpoint"><img alt="PowerPoint" title="PowerPoint" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoPowerPoint.png" height="45"/></a>
       <a href="https://www.microsoft.com/microsoft-365/outlook"><img alt="Outlook" title="Outlook" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoOutlook.png" height="45"/></a>
+      <a href="https://www.microsoft.com/microsoft-teams"><img alt="Teams" title="Teams" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoTeams.png" height="45"/></a>
     </td>
   </tr>
 </table>
