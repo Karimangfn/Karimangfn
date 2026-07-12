@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&theme=darkviolet&height=180&section=header" />
 </p>
 
-<h2 align="center">👨‍💻 Hi, I'm Kariman Gomes</h2>
+<h2 align="center">👋 Hi, I'm Kariman</h2>
 
 <p align="center">
   💻 Data Engineer & Backend Python Developer&nbsp;|&nbsp;☁️ Databricks • Azure • AWS&nbsp;|&nbsp;📍 Brazil
