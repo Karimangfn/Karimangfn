@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://github.com/Karimangfn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E40AF&center=true&vCenter=true&width=500&lines=Data+Engineer+Associate;Data+Analyst;Generative+AI+Engineer" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=180&section=header" />
 </p>
 
