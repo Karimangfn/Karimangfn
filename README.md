@@ -148,7 +148,15 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
 
 ## 📜 Certifications
 
-<a href="https://credentials.databricks.com/digital-badge/associate-id" target="_blank"><img alt="Databricks Certified Data Engineer Associate" title="Databricks Certified Data Engineer Associate" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Databricks-Data-Engineer-Associate.png" height="100"/></a> <a href="https://credentials.databricks.com/digital-badge/professional-id" target="_blank"><img alt="Databricks Certified Data Engineer Professional" title="Databricks Certified Data Engineer Professional" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Databricks-Data-Engineer-Professional.png" height="100"/></a>
+<a href="https://credentials.databricks.com/digital-badge/associate-id" target="_blank"><img alt="Databricks Certified Data Engineer Associate" title="Databricks Certified Data Engineer Associate" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Databricks-Data-Engineer-Associate.png" height="100"/></a> 
+<a href="https://credentials.databricks.com/digital-badge/professional-id" target="_blank"><img alt="Databricks Certified Data Engineer Professional" title="Databricks Certified Data Engineer Professional" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Databricks-Data-Engineer-Professional.png" height="100"/></a>
+
+<a href="https://credentials.databricks.com/digital-badge/professional-id" target="_blank"><img alt="Databricks Certified Data Engineer Professional" title="Databricks Certified Data Engineer Professional" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Databricks-Data-Analyst-Associate.png" height="100"/></a>
+<a href="https://credentials.databricks.com/digital-badge/professional-id" target="_blank"><img alt="Databricks Certified Data Engineer Professional" title="Databricks Certified Data Engineer Professional" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Databricks-Generative-AI-Engineer-Associate.png" height="100"/></a>
+<a href="https://credentials.databricks.com/digital-badge/professional-id" target="_blank"><img alt="Databricks Certified Data Engineer Professional" title="Databricks Certified Data Engineer Professional" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Databricks-Machine-Learning-Professional.png" height="100"/></a>
+
+<a href="https://credentials.databricks.com/digital-badge/professional-id" target="_blank"><img alt="Databricks Certified Data Engineer Professional" title="Databricks Certified Data Engineer Professional" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Microsoft-az-900.svg" height="100"/></a>
+<a href="https://credentials.databricks.com/digital-badge/professional-id" target="_blank"><img alt="Databricks Certified Data Engineer Professional" title="Databricks Certified Data Engineer Professional" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/Microsoft-dp-900.jpeg" height="100"/></a>
 
 ---
 
