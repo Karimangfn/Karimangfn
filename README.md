@@ -139,7 +139,7 @@ I follow best practices to design Data Driven architectures, using Python, PySpa
       <a href="https://www.microsoft.com/microsoft-365/excel"><img alt="Excel" title="Excel" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoExcel.png" height="45"/></a>
       <a href="https://www.microsoft.com/microsoft-365/powerpoint"><img alt="PowerPoint" title="PowerPoint" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoPowerPoint.png" height="45"/></a>
       <a href="https://www.microsoft.com/microsoft-365/outlook"><img alt="Outlook" title="Outlook" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoOutlook.png" height="45"/></a>
-      <a href="https://www.microsoft.com/microsoft-teams"><img alt="Teams" title="Teams" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/LogoTeams.png" height="45"/></a>
+      <a href="https://www.microsoft.com/microsoft-teams"><img alt="Teams" title="Teams" src="https://github.com/Karimangfn/Karimangfn/blob/main/Images/slack.svg" height="45"/></a>
     </td>
   </tr>
 </table>
