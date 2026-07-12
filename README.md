@@ -13,8 +13,7 @@
 ## 🚀 About Me
 
 <p>
-Backend Python developer and data engineer with experience in Databricks, Azure and AWS, specialized in building data ingestion pipelines and developing scalable cloud solutions.
-I follow best practices to design Data Driven architectures, using Python, PySpark and SQL to turn data into strategic insights.
+Data & Platform Engineer and Python backend developer, with experience in Databricks, Azure and AWS, building data ingestion pipelines and the cloud infrastructure that supports them. I follow best practices to design Data Driven architectures, using Python, PySpark and SQL — with a growing focus on GenAI and ML platform tooling — to turn data into scalable, reliable solutions.
 </p>
 
 ---
