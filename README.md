@@ -163,12 +163,8 @@ Data & AI Engineer working across platform engineering and Python backend develo
 ---
 
 ## 📊 GitHub Stats
-<a href="https://github.com/Karimangfn">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Karimangfn&show_icons=true&theme=radical" width="400" />
-</a>
-<a href="https://github.com/Karimangfn">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Karimangfn&layout=compact&theme=radical" width="305" />
-</a>
+<a href="https://github.com/Karimangfn"><img src="https://github-readme-stats-fast.vercel.app/api?username=Karimangfn&show_icons=true&theme=radical" width="400" /></a>
+<a href="https://github.com/Karimangfn"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Karimangfn&layout=compact&theme=radical" width="305" /></a>
 
 ---
 
